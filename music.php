@@ -75,10 +75,10 @@ if (isset($_GET['month']) && isset($_GET['year']) && isset($_GET['person'])) {
         <meta charset='UTF-8'>
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
         <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-        <!-- <link href='libs/bootstrap-5.3.0-dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM' crossorigin='anonymous'> -->
-        <!-- <script src='libs/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js' integrity='sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz' crossorigin='anonymous'></script> -->
-        <script src='libs/bootstrapSource_5.3.0/dist/js/bootstrap.bundle.min.js'></script>
-        <link rel='stylesheet' type='text/css' href='css/styles.css'>
+        <link href='libs/bootstrap-5.3.0-dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM' crossorigin='anonymous'>
+        <script src='libs/bootstrap-5.3.0-dist/js/bootstrap.bundle.min.js' integrity='sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz' crossorigin='anonymous'></script>
+        <!-- <script src='libs/bootstrapSource_5.3.0/dist/js/bootstrap.bundle.min.js'></script> -->
+        <!-- <link rel='stylesheet' type='text/css' href='css/styles.css'> -->
         <link rel='stylesheet' type='text/css' href='css/styles2.css'>
         <link rel='icon' href='img/musical-note.png'>
         <title>Pelaez Y De Francisco Fans</title>
@@ -192,6 +192,8 @@ if (isset($_GET['month']) && isset($_GET['year']) && isset($_GET['person'])) {
             </footer>
         </div>
     </body>
+    <script src='libs/popperjs-core-2.11.8/package/dist/umd/popper.min.js' integrity='sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r' crossorigin='anonymous'></script>
+    <script src='libs/bootstrap-5.3.0-dist/js/bootstrap.min.js' integrity='sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS' crossorigin='anonymous'></script>
     </html>
     ";
 
