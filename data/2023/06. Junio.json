@@ -1,0 +1,562 @@
+[
+  {
+    "fecha": "Junio 30 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Giraldo Piloto y Klimax",
+    "tema": "Cuba",
+    "video": "https://www.youtube.com/watch?v=eW7SsdNNEzc"
+  },
+  {
+    "fecha": "Junio 30 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Billos Caracas Boys",
+    "tema": "Caminito de Guarena",
+    "video": "https://www.youtube.com/watch?v=MpjHXdcF1DM"
+  },
+  {
+    "fecha": "Junio 30 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Megadeth",
+    "tema": "Killing Time",
+    "video": "https://www.youtube.com/watch?v=pvVJH3dKQBU"
+  },
+  {
+    "fecha": "Junio 30 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Los Melódicos",
+    "tema": "Cuando Florezcan las Amapolas",
+    "video": "https://www.youtube.com/watch?v=05NdX8rCnhw"
+  },
+  {
+    "fecha": "Junio 29 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Manolito Simonet y Su Trabuco",
+    "tema": "Caballo Grande Ande o No Ande",
+    "video": "https://www.youtube.com/watch?v=oRA6jVXKTmI"
+  },
+  {
+    "fecha": "Junio 29 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Nelson Ned",
+    "tema": "Déjenme Si Estoy Llorando",
+    "video": "https://www.youtube.com/watch?v=EyIH870_GBA"
+  },
+  {
+    "fecha": "Junio 29 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Jim Breuer and the Loud & Rowdy",
+    "tema": "Mr. Rock n Roll",
+    "video": "https://www.youtube.com/watch?v=C9RGdx3MYpU"
+  },
+  {
+    "fecha": "Junio 29 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Nelson Ned",
+    "tema": "Si Las Flores Pudieran Hablar",
+    "video": "https://www.youtube.com/watch?v=Ed3zXknEVmM"
+  },
+  {
+    "fecha": "Junio 28 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "José Feliciano",
+    "tema": "El Ciego",
+    "video": "https://www.youtube.com/watch?v=rbl8RAOvl7g"
+  },
+  {
+    "fecha": "Junio 28 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Celio Gonzalez",
+    "tema": "La Primera Piedra",
+    "video": "https://www.youtube.com/watch?v=zmDpSklMMM0"
+  },
+  {
+    "fecha": "Junio 28 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Hardbone",
+    "tema": "Bottlemate",
+    "video": "https://www.youtube.com/watch?v=3zopg5kuWC8"
+  },
+  {
+    "fecha": "Junio 28 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Celio Gonzalez",
+    "tema": "En El Balcón Aquel",
+    "video": "https://www.youtube.com/watch?v=cA4f0KHH7oA"
+  },
+  {
+    "fecha": "Junio 27 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "José Feliciano",
+    "tema": "Dios En Tus Ojos",
+    "video": "https://www.youtube.com/watch?v=RmvVEO95ymo"
+  },
+  {
+    "fecha": "Junio 27 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Bill Haley And His Comets",
+    "tema": "See You Later Alligator",
+    "video": "https://www.youtube.com/watch?v=NMP6IGJXG3o"
+  },
+  {
+    "fecha": "Junio 27 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Led Zeppelin",
+    "tema": "In The Evening",
+    "video": "https://www.youtube.com/watch?v=bJSJavz1AOM"
+  },
+  {
+    "fecha": "Junio 27 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Bill Haley And His Comets",
+    "tema": "Rock Around The Clock",
+    "video": "https://www.youtube.com/watch?v=Rr3hP8NQ9KM"
+  },
+  {
+    "fecha": "Junio 26 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Mercedes Sosa",
+    "tema": "María María",
+    "video": "https://www.youtube.com/watch?v=c-nGJczVVbQ"
+  },
+  {
+    "fecha": "Junio 26 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Tres Reyes",
+    "tema": "Odiame",
+    "video": "https://www.youtube.com/watch?v=8lXK0xeTJEs"
+  },
+  {
+    "fecha": "Junio 26 de 2023",
+    "seccion": "La de Martín",
+    "artista": "KISS",
+    "tema": "Psycho Circus",
+    "video": "https://www.youtube.com/watch?v=BWIW6Ti0PbE"
+  },
+  {
+    "fecha": "Junio 26 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Los Tres Reyes",
+    "tema": "Poquita Fé",
+    "video": "https://www.youtube.com/watch?v=8mkXQXm9O8A"
+  },
+  {
+    "fecha": "Junio 23 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Pete El Conde",
+    "tema": "Catalina La O",
+    "video": "https://www.youtube.com/watch?v=mS8Eo-a4tlg"
+  },
+  {
+    "fecha": "Junio 23 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Ismael Rivera",
+    "tema": "Traigo de Todo",
+    "video": "https://www.youtube.com/watch?v=5WBtcZtiq_c"
+  },
+  {
+    "fecha": "Junio 23 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Anthrax",
+    "tema": "Among The Living",
+    "video": "https://www.youtube.com/watch?v=7mRDSW9-i_E"
+  },
+  {
+    "fecha": "Junio 23 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Ismael Rivera",
+    "tema": "Sale El Sol",
+    "video": "https://www.youtube.com/watch?v=DnBSv5MJJhQ"
+  },
+  {
+    "fecha": "Junio 22 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Ivan Lins",
+    "tema": "Acaso",
+    "video": "https://www.youtube.com/watch?v=ERqEcECqsD8"
+  },
+  {
+    "fecha": "Junio 22 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Ñico Membiela",
+    "tema": "Nosotros",
+    "video": "https://www.youtube.com/watch?v=U1TL-yFTMPc"
+  },
+  {
+    "fecha": "Junio 22 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Iron Maiden",
+    "tema": "The Mercenary",
+    "video": "https://www.youtube.com/watch?v=z3gNmiLBP9g"
+  },
+  {
+    "fecha": "Junio 22 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Ñico Membiela",
+    "tema": "En Las Tinieblas",
+    "video": "https://www.youtube.com/watch?v=SvhaQWWbOPs"
+  },
+  {
+    "fecha": "Junio 21 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Juanjo Dominguez",
+    "tema": "Adios Nonino",
+    "video": "https://www.youtube.com/watch?v=25j-r06QNo8"
+  },
+  {
+    "fecha": "Junio 21 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Julio Sosa",
+    "tema": "Madame Ivonne",
+    "video": "https://www.youtube.com/watch?v=l3vdCOMWVtU"
+  },
+  {
+    "fecha": "Junio 21 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Tool",
+    "tema": "Stinkfist",
+    "video": "https://www.youtube.com/watch?v=M1tIH55Bo8k"
+  },
+  {
+    "fecha": "Junio 21 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Julio Sosa",
+    "tema": "Cambalache",
+    "video": "https://www.youtube.com/watch?v=v2szhmZbOsQ"
+  },
+  {
+    "fecha": "Junio 20 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Juan Luis Guerra",
+    "tema": "Rosalia",
+    "video": "https://www.youtube.com/watch?v=xMypBW1vjS0"
+  },
+  {
+    "fecha": "Junio 20 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Temerarios",
+    "tema": "Valentín de La Sierra",
+    "video": "https://www.youtube.com/watch?v=SOcnJjiKHiU"
+  },
+  {
+    "fecha": "Junio 20 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Jaded Sun",
+    "tema": "Breaking Through",
+    "video": "https://www.youtube.com/watch?v=bAFtuZx31u0"
+  },
+  {
+    "fecha": "Junio 20 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Los Temerarios",
+    "tema": "El Chivo",
+    "video": "https://www.youtube.com/watch?v=pbXnTSuE8a4"
+  },
+  {
+    "fecha": "Junio 16 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Daniel Amat",
+    "tema": "Mi Guajira",
+    "video": "https://www.youtube.com/watch?v=LLGFoliaisU"
+  },
+  {
+    "fecha": "Junio 16 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Hermanos Rigual",
+    "tema": "La Del Vestido Rojo",
+    "video": "https://www.youtube.com/watch?v=LVEykKpdElU"
+  },
+  {
+    "fecha": "Junio 16 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Exodus",
+    "tema": "Cajun Hell",
+    "video": "https://www.youtube.com/watch?v=sUsUYCkXQvQ"
+  },
+  {
+    "fecha": "Junio 16 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Hermanos Rigual",
+    "tema": "Cuando Calienta El Sol",
+    "video": "https://www.youtube.com/watch?v=EbWXIgYkeWc"
+  },
+  {
+    "fecha": "Junio 15 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Cano Estremera",
+    "tema": "Amiga",
+    "video": "https://www.youtube.com/watch?v=pRHM7jHkyAY"
+  },
+  {
+    "fecha": "Junio 15 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Eydie Gorme Y Trio Los Panchos",
+    "tema": "Sabor A Mí",
+    "video": "https://www.youtube.com/watch?v=aQCo3rczB-w"
+  },
+  {
+    "fecha": "Junio 15 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Airbourne",
+    "tema": "Bone Shaker",
+    "video": "https://www.youtube.com/watch?v=8GVVIZw_7nE"
+  },
+  {
+    "fecha": "Junio 15 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Eydie Gorme Y Trio Los Panchos",
+    "tema": "Luna Lunera",
+    "video": "https://www.youtube.com/watch?v=VzSaEU2SC4E"
+  },
+  {
+    "fecha": "Junio 14 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Johnny Rivera",
+    "tema": "Cuando Parará La Lluvia",
+    "video": "https://www.youtube.com/watch?v=hrqHksL3oUY"
+  },
+  {
+    "fecha": "Junio 14 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Caetano Veloso",
+    "tema": "Fina Estampa",
+    "video": "https://www.youtube.com/watch?v=x59K2q8jiZM"
+  },
+  {
+    "fecha": "Junio 14 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Rush",
+    "tema": "The Spirit Of The Radio",
+    "video": "https://www.youtube.com/watch?v=g_QtO0Rhp0w"
+  },
+  {
+    "fecha": "Junio 14 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Caetano Veloso",
+    "tema": "Cucurrucucú Paloma",
+    "video": "https://www.youtube.com/watch?v=xVggBkYKGsQ"
+  },
+  {
+    "fecha": "Junio 13 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Willie Gonzalez",
+    "tema": "No Podrás Escapar de Mí",
+    "video": "https://www.youtube.com/watch?v=35-0ziCYlB0"
+  },
+  {
+    "fecha": "Junio 13 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Gipsy Kings",
+    "tema": "Volare",
+    "video": "https://www.youtube.com/watch?v=qmbx4_TQbkA"
+  },
+  {
+    "fecha": "Junio 13 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Iron Maiden",
+    "tema": "The Wicker Man",
+    "video": "https://www.youtube.com/watch?v=-sQ3Af3DpeM"
+  },
+  {
+    "fecha": "Junio 13 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Gipsy Kings",
+    "tema": "Djobi Djoba",
+    "video": "https://www.youtube.com/watch?v=znxb6KtOo_c"
+  },
+  {
+    "fecha": "Junio 9 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Andres Calamaro",
+    "tema": "Te Quiero Igual (Version en Vivo Buenos Aires 2005)",
+    "video": "https://www.youtube.com/watch?v=Gjngs52lK-c"
+  },
+  {
+    "fecha": "Junio 9 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Barbarito Diez",
+    "tema": "Capullito De Alelí",
+    "video": "https://www.youtube.com/watch?v=NWOubxbygQU"
+  },
+  {
+    "fecha": "Junio 9 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Metallica",
+    "tema": "The Frayed Ends Of Sanity",
+    "video": "https://www.youtube.com/watch?v=x6wxm0POHBE"
+  },
+  {
+    "fecha": "Junio 9 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Barbarito Diez",
+    "tema": "Bajo Un Palmar",
+    "video": "https://www.youtube.com/watch?v=9K-rBzcJ0EM"
+  },
+  {
+    "fecha": "Junio 8 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Andrés Calamaro",
+    "tema": "El Día de la Mujer Mundial",
+    "video": "https://www.youtube.com/watch?v=XTmPP_8pvWw"
+  },
+  {
+    "fecha": "Junio 8 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Cornelio Reyna",
+    "tema": "Mandale Una Carta A Tu Marido",
+    "video": "https://www.youtube.com/watch?v=DED6EuD0atI"
+  },
+  {
+    "fecha": "Junio 8 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Accept",
+    "tema": "Balls To The Wall",
+    "video": "https://www.youtube.com/watch?v=B_3TlrZLpQ0"
+  },
+  {
+    "fecha": "Junio 8 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Cornelio Reyna",
+    "tema": "Me Caí De La Nube",
+    "video": "https://www.youtube.com/watch?v=w07A3IyV6bw"
+  },
+  {
+    "fecha": "Junio 7 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Astrud Gilberto",
+    "tema": "Look To The Rainbow",
+    "video": "https://www.youtube.com/watch?v=MONEuK4VfR0"
+  },
+  {
+    "fecha": "Junio 7 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Estela Nuñez",
+    "tema": "Adios Adios Amor",
+    "video": "https://www.youtube.com/watch?v=KmhYzY7Rxa4"
+  },
+  {
+    "fecha": "Junio 7 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Anthrax",
+    "tema": "TNT",
+    "video": "https://www.youtube.com/watch?v=Csx2KbWIR4o"
+  },
+  {
+    "fecha": "Junio 7 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Estela Nuñez",
+    "tema": "Una Lagrima",
+    "video": "https://www.youtube.com/watch?v=vGM8chGKqbA"
+  },
+  {
+    "fecha": "Junio 6 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Doja Cat",
+    "tema": "Say So",
+    "video": "https://www.youtube.com/watch?v=pok8H_KF1FA"
+  },
+  {
+    "fecha": "Junio 6 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Lucho Ramirez",
+    "tema": "Presentimiento",
+    "video": "https://www.youtube.com/watch?v=sRCS1jjXGts"
+  },
+  {
+    "fecha": "Junio 6 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Accept",
+    "tema": "Teutonic Terror",
+    "video": "https://www.youtube.com/watch?v=req-oDf2ZRc"
+  },
+  {
+    "fecha": "Junio 6 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Lucho Ramirez",
+    "tema": "Muchacha de Risa Loca",
+    "video": "https://www.youtube.com/watch?v=NSik0wltTVg"
+  },
+  {
+    "fecha": "Junio 5 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Elis Regina e Tom Jobim",
+    "tema": "Triste",
+    "video": "https://www.youtube.com/watch?v=pNWpquMzJSY"
+  },
+  {
+    "fecha": "Junio 5 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Tito Cortes",
+    "tema": "Derrumbes",
+    "video": "https://www.youtube.com/watch?v=Rh4Ysm36pWQ"
+  },
+  {
+    "fecha": "Junio 5 de 2023",
+    "seccion": "La de Martín",
+    "artista": "ACDC",
+    "tema": "The Honey Roll",
+    "video": "https://www.youtube.com/watch?v=VpHOcc3_IrM"
+  },
+  {
+    "fecha": "Junio 5 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Tito Cortes",
+    "tema": "Si Te Vas",
+    "video": "https://www.youtube.com/watch?v=rxKOijAJgZs"
+  },
+  {
+    "fecha": "Junio 2 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Bobby Valentin",
+    "tema": "Si un Día Te Sientes Sola",
+    "video": "https://www.youtube.com/watch?v=SHzAQ-sDkDs"
+  },
+  {
+    "fecha": "Junio 2 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Paulito FG Y Su Elite",
+    "tema": "Ana Elena",
+    "video": "https://www.youtube.com/watch?v=NzHncgxpJVM"
+  },
+  {
+    "fecha": "Junio 2 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Testament",
+    "tema": "Envy Life",
+    "video": "https://www.youtube.com/watch?v=6XehkmiXtxo"
+  },
+  {
+    "fecha": "Junio 2 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Bobby Valentín",
+    "tema": "Mátame",
+    "video": "https://www.youtube.com/watch?v=Xnah3z_C0ZQ"
+  },
+  {
+    "fecha": "Junio 1 de 2023",
+    "seccion": "La otra de Martín",
+    "artista": "Paco De Lucía",
+    "tema": "Canción De Amor",
+    "video": "https://www.youtube.com/watch?v=b2nLO46TzIM"
+  },
+  {
+    "fecha": "Junio 1 de 2023",
+    "seccion": "La otra de Pelaez",
+    "artista": "Matilde Diaz",
+    "tema": "Prende La Vela",
+    "video": "https://www.youtube.com/watch?v=FK426etmC3M"
+  },
+  {
+    "fecha": "Junio 1 de 2023",
+    "seccion": "La de Martín",
+    "artista": "Kiss",
+    "tema": "Heaven is on Fire",
+    "video": "https://www.youtube.com/watch?v=EZjevnnkA20"
+  },
+  {
+    "fecha": "Junio 1 de 2023",
+    "seccion": "La de Pelaez",
+    "artista": "Matilde Diaz",
+    "tema": "Te busco",
+    "video": "https://www.youtube.com/watch?v=97Ok8Qw_HU8"
+  }
+]

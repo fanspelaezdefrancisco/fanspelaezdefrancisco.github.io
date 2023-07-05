@@ -1,0 +1,625 @@
+[
+  {
+    "fecha": "Septiembre 30 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Niña Pastori",
+    "tema": "Cai",
+    "video": "https://www.youtube.com/watch?v=C8Pvz5Yu_Ic"
+  },
+  {
+    "fecha": "Septiembre 30 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Wilfrido Vargas",
+    "tema": "Abusadora",
+    "video": "https://www.youtube.com/watch?v=QweFe4CeAJg"
+  },
+  {
+    "fecha": "Septiembre 30 de 2022",
+    "seccion": "La de Martin",
+    "artista": "Anthrax",
+    "tema": "Keep It In The Family",
+    "video": "https://www.youtube.com/watch?v=G_7WHwB71IU"
+  },
+  {
+    "fecha": "Septiembre 30 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Wilfrido Vargas",
+    "tema": "Volveré",
+    "video": "https://www.youtube.com/watch?v=f7-vEi-uPB8"
+  },
+  {
+    "fecha": "Septiembre 29 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Niña Pastori",
+    "tema": "El aire llega",
+    "video": "https://www.youtube.com/watch?v=U3vjEMIqBl8"
+  },
+  {
+    "fecha": "Septiembre 29 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Alberto Cortez",
+    "tema": "A partir de mañana",
+    "video": "https://www.youtube.com/watch?v=NdcmFJGf5ek"
+  },
+  {
+    "fecha": "Septiembre 29 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Rage Against The Machine",
+    "tema": "People of the Sun",
+    "video": "https://www.youtube.com/watch?v=scyC9A6o_Ts"
+  },
+  {
+    "fecha": "Septiembre 29 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Alberto Cortez",
+    "tema": "Mi Arbol y Yo",
+    "video": "https://www.youtube.com/watch?v=WKkk4JtLFIE"
+  },
+  {
+    "fecha": "Septiembre 28 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Ed Motta",
+    "tema": "Caso Sério",
+    "video": "https://www.youtube.com/watch?v=C-kGuWEiE0w"
+  },
+  {
+    "fecha": "Septiembre 28 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Tres Caballeros",
+    "tema": "Noche No Te Vayas",
+    "video": "https://www.youtube.com/watch?v=4NDL_jOVXes"
+  },
+  {
+    "fecha": "Septiembre 28 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Testament",
+    "tema": "A Day Of Reckoning",
+    "video": "https://www.youtube.com/watch?v=HjxxKlrFqz8"
+  },
+  {
+    "fecha": "Septiembre 28 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Los Tres Caballeros",
+    "tema": "La Barca",
+    "video": "https://www.youtube.com/watch?v=DmN5Xcl7Nnw"
+  },
+  {
+    "fecha": "Septiembre 27 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Paco de Lucia",
+    "tema": "Canción de Amor",
+    "video": "https://www.youtube.com/watch?v=b2nLO46TzIM"
+  },
+  {
+    "fecha": "Septiembre 27 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Linda Ronstadt",
+    "tema": "Los Laureles",
+    "video": "https://www.youtube.com/watch?v=Vd6UvP_iJlU"
+  },
+  {
+    "fecha": "Septiembre 27 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Velvet Revolver",
+    "tema": "For A Brother",
+    "video": "https://www.youtube.com/watch?v=oZPwYK3L1SU"
+  },
+  {
+    "fecha": "Septiembre 27 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Linda Ronstadt",
+    "tema": "Por Un Amor",
+    "video": "https://www.youtube.com/watch?v=rJfXiOrK7t4"
+  },
+  {
+    "fecha": "Septiembre 26 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Joao Gilberto",
+    "tema": "Una Mujer",
+    "video": "https://www.youtube.com/watch?v=Wki6dqAVO9U"
+  },
+  {
+    "fecha": "Septiembre 26 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Embajadores",
+    "tema": "No Me Olvides Nunca",
+    "video": "https://www.youtube.com/watch?v=BJaXxdMz2nY"
+  },
+  {
+    "fecha": "Septiembre 26 de 2022",
+    "seccion": "La de Martín",
+    "artista": "W.A.S.P",
+    "tema": "The Flame",
+    "video": "https://www.youtube.com/watch?v=E4Ze6qbgMrM"
+  },
+  {
+    "fecha": "Septiembre 26 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Los Embajadores",
+    "tema": "A Unos Ojos del Trio",
+    "video": "https://www.youtube.com/watch?v=HXXzMyjl1is"
+  },
+  {
+    "fecha": "Septiembre 23 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Manolito Simonet",
+    "tema": "Cabello Grande Ande o No Ande",
+    "video": "https://www.youtube.com/watch?v=v_VXcrCROcQ"
+  },
+  {
+    "fecha": "Septiembre 23 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Tito Cortés",
+    "tema": "Si Te Vas",
+    "video": "https://www.youtube.com/watch?v=rxKOijAJgZs"
+  },
+  {
+    "fecha": "Septiembre 23 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Overkill",
+    "tema": "Shred",
+    "video": "https://www.youtube.com/watch?v=u4Oi5v4LhiA"
+  },
+  {
+    "fecha": "Septiembre 23 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Tito Cortez",
+    "tema": "Reconciliación",
+    "video": "https://www.youtube.com/watch?v=PcZMR_v1Oq0"
+  },
+  {
+    "fecha": "Septiembre 22 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Ray Barretto",
+    "tema": "Summertime Guajira",
+    "video": "https://www.youtube.com/watch?v=rwQrLJmMwB4"
+  },
+  {
+    "fecha": "Septiembre 22 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Cuarteto Ruffino",
+    "tema": "Sin Motivo",
+    "video": "https://www.youtube.com/watch?v=PXYJV-Mz50Q"
+  },
+  {
+    "fecha": "Septiembre 22 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Obituary",
+    "tema": "Redneck Stomp",
+    "video": "https://www.youtube.com/watch?v=B8N8YffkZlw"
+  },
+  {
+    "fecha": "Septiembre 22 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Cuarteto Ruffino",
+    "tema": "Triana Morena",
+    "video": "https://www.youtube.com/watch?v=m3tbGf6NVEI"
+  },
+  {
+    "fecha": "Septiembre 21 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Juan Luis Guerra",
+    "tema": "La hormiguita",
+    "video": "https://www.youtube.com/watch?v=e9vSD4KLM0Y"
+  },
+  {
+    "fecha": "Septiembre 21 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Maria Dolores Pradera",
+    "tema": "La Ruana",
+    "video": "https://www.youtube.com/watch?v=qF0Ub0Z7Aeo"
+  },
+  {
+    "fecha": "Septiembre 21 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Stuck Mojo",
+    "tema": "Not Promised Tomorrow",
+    "video": "https://www.youtube.com/watch?v=yCaLFxvfDEk"
+  },
+  {
+    "fecha": "Septiembre 21 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Maria Dolores Pradera",
+    "tema": "Fallaste Corazón",
+    "video": "https://www.youtube.com/watch?v=xaZ_VOAxba8"
+  },
+  {
+    "fecha": "Septiembre 20 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Johnny Colon",
+    "tema": "El Mensaje",
+    "video": "https://www.youtube.com/watch?v=z4B_TCtmo3A"
+  },
+  {
+    "fecha": "Septiembre 20 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Carlos Puebla",
+    "tema": "Hasta Siempre Comandante",
+    "video": "https://www.youtube.com/watch?v=fcnH8oK8FlY"
+  },
+  {
+    "fecha": "Septiembre 20 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Ghost",
+    "tema": "Cirice",
+    "video": "https://www.youtube.com/watch?v=-0Ao4t_fe0I"
+  },
+  {
+    "fecha": "Septiembre 20 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Carlos Puebla",
+    "tema": "Y En Eso Llegó Fidel",
+    "video": "https://www.youtube.com/watch?v=5woXb-XnSYQ"
+  },
+  {
+    "fecha": "Septiembre 19 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Hector Lavoe",
+    "tema": "Rompe Saragüey",
+    "video": "https://www.youtube.com/watch?v=Rg4aB78TixU"
+  },
+  {
+    "fecha": "Septiembre 19 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Jorge Valdez",
+    "tema": "Remembranzas",
+    "video": "https://www.youtube.com/watch?v=Um9AyIoETlg"
+  },
+  {
+    "fecha": "Septiembre 19 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Evile",
+    "tema": "We Who Are About To Die",
+    "video": "https://www.youtube.com/watch?v=pOJafB5mI-8"
+  },
+  {
+    "fecha": "Septiembre 19 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Jorge Valdez",
+    "tema": "Milonga sentimental",
+    "video": "https://www.youtube.com/watch?v=feb1Rm-l230"
+  },
+  {
+    "fecha": "Septiembre 16 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Eddie Palmieri",
+    "tema": "Palo de Mango",
+    "video": "https://www.youtube.com/watch?v=NoH1kGHLdwA"
+  },
+  {
+    "fecha": "Septiembre 16 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Lucho Bermudez",
+    "tema": "La Múcura de Matilde Diaz",
+    "video": "https://www.youtube.com/watch?v=CK8-rCJ4qBk"
+  },
+  {
+    "fecha": "Septiembre 16 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Exodus",
+    "tema": "Brain Dead",
+    "video": "https://www.youtube.com/watch?v=vq-MHK0mmYo"
+  },
+  {
+    "fecha": "Septiembre 16 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Matilde Diaz con Lucho Bermudez",
+    "tema": "Cármen de Bolivar",
+    "video": "https://www.youtube.com/watch?v=cMLursVQsws"
+  },
+  {
+    "fecha": "Septiembre 15 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Carlos Vives",
+    "tema": "Fruta Fresca",
+    "video": "https://www.youtube.com/watch?v=i2c4CHqZmxU"
+  },
+  {
+    "fecha": "Septiembre 15 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Brincos",
+    "tema": "Un Sorbito de Champagne",
+    "video": "https://www.youtube.com/watch?v=UUb26esl3uQ"
+  },
+  {
+    "fecha": "Septiembre 15 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Suicidal Tendencies",
+    "tema": "How Will I Laugh Tomorrow",
+    "video": "https://www.youtube.com/watch?v=iVr5RtEqpc0"
+  },
+  {
+    "fecha": "Septiembre 15 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Los Brincos",
+    "tema": "Flamenco",
+    "video": "https://www.youtube.com/watch?v=GaTF9b2K7vE"
+  },
+  {
+    "fecha": "Septiembre 14 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Polyphia",
+    "tema": "ABC",
+    "video": "https://www.youtube.com/watch?v=Mtd24QIBJ5Y"
+  },
+  {
+    "fecha": "Septiembre 14 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Alfredo Kraus",
+    "tema": "Estrellita",
+    "video": "https://www.youtube.com/watch?v=Ot9FHZ8cgMI"
+  },
+  {
+    "fecha": "Septiembre 14 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Exodus",
+    "tema": "Salt The Wound",
+    "video": "https://www.youtube.com/watch?v=f0_wT7BJf30"
+  },
+  {
+    "fecha": "Septiembre 14 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Alfredo Kraus",
+    "tema": "Corazon Corazon",
+    "video": "https://www.youtube.com/watch?v=vuvesdsgXx8"
+  },
+  {
+    "fecha": "Septiembre 13 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Spanish Harlem Orchestra",
+    "tema": "Como Baila Mi Mulata",
+    "video": "https://www.youtube.com/watch?v=MpU7w92DFJM"
+  },
+  {
+    "fecha": "Septiembre 13 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Nino Bravo",
+    "tema": "Un Beso Y Una Flor",
+    "video": "https://www.youtube.com/watch?v=UFsVQ_me0aI"
+  },
+  {
+    "fecha": "Septiembre 13 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Mötley Crüe",
+    "tema": "Come On And Dance",
+    "video": "https://www.youtube.com/watch?v=p5zbAXGCHIE"
+  },
+  {
+    "fecha": "Septiembre 13 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Nino Bravo",
+    "tema": "Libre",
+    "video": "https://www.youtube.com/watch?v=7812dngARbk"
+  },
+  {
+    "fecha": "Septiembre 12 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Los Hermanos Lebron",
+    "tema": "Apúrate",
+    "video": "https://www.youtube.com/watch?v=_IzYg_h_UtY"
+  },
+  {
+    "fecha": "Septiembre 12 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Aída Cuevas",
+    "tema": "Pa que sientas lo que siento",
+    "video": "https://www.youtube.com/watch?v=sMXQCmHUYP4"
+  },
+  {
+    "fecha": "Septiembre 12 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Municipal Waste",
+    "tema": "Crank The Heat",
+    "video": "https://www.youtube.com/watch?v=woM-21cFQJE"
+  },
+  {
+    "fecha": "Septiembre 12 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Aida Cuevas",
+    "tema": "Te Vas A Quedar Con Las Ganas",
+    "video": "https://www.youtube.com/watch?v=4n2B6DXocrU"
+  },
+  {
+    "fecha": "Septiembre 9 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Willy Rosario",
+    "tema": "De Barrio Obrero A La Quince",
+    "video": "https://www.youtube.com/watch?v=t8KV8VyZV9s"
+  },
+  {
+    "fecha": "Septiembre 9 de 2022",
+    "seccion": "La tercera de Pelaez",
+    "artista": "Juan Piña",
+    "tema": "El Machín",
+    "video": "https://www.youtube.com/watch?v=NIfLGyfI7Uk"
+  },
+  {
+    "fecha": "Septiembre 9 de 2022",
+    "seccion": "La segunda de Pelaez",
+    "artista": "Enanitos Verdes",
+    "tema": "El Extraño del Pelo Largo",
+    "video": "https://www.youtube.com/watch?v=5XJJLAMPCVc"
+  },
+  {
+    "fecha": "Septiembre 9 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Slayer",
+    "tema": "Epidemic",
+    "video": "https://www.youtube.com/watch?v=sRAQVNlApmI"
+  },
+  {
+    "fecha": "Septiembre 9 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Juan Piña",
+    "tema": "La Rama de Tamarindo",
+    "video": "https://www.youtube.com/watch?v=5AH7cY_dmnY"
+  },
+  {
+    "fecha": "Septiembre 8 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "La Maxima 79",
+    "tema": "Había Cavour",
+    "video": "https://www.youtube.com/watch?v=1fAWJn7NB0I"
+  },
+  {
+    "fecha": "Septiembre 8 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Bob Toledo",
+    "tema": "Caprichito",
+    "video": "https://www.youtube.com/watch?v=u7Z9Id4Jrnc"
+  },
+  {
+    "fecha": "Septiembre 8 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Megadeth",
+    "tema": "We'll Be Back",
+    "video": "https://www.youtube.com/watch?v=LkJ5jJuraLQ"
+  },
+  {
+    "fecha": "Septiembre 8 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Bob Toledo",
+    "tema": "Llanto de Luna",
+    "video": "https://www.youtube.com/watch?v=h4oZutNcHcg"
+  },
+  {
+    "fecha": "Septiembre 7 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Angelica Maria",
+    "tema": "Me Gusta Estar Contigo",
+    "video": "https://www.youtube.com/watch?v=HmZay3C_rAI"
+  },
+  {
+    "fecha": "Septiembre 7 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Los Dementes",
+    "tema": "La Llorona",
+    "video": "https://www.youtube.com/watch?v=mf0aOXDd7s0"
+  },
+  {
+    "fecha": "Septiembre 7 de 2022",
+    "seccion": "La de Martín",
+    "artista": "La Pestilencia",
+    "tema": "Les Vale Huevo",
+    "video": "https://www.youtube.com/watch?v=NrYw8p0b5uY"
+  },
+  {
+    "fecha": "Septiembre 7 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Angelica Maria",
+    "tema": "La Basurita",
+    "video": "https://www.youtube.com/watch?v=N4DdHs9x_x0"
+  },
+  {
+    "fecha": "Septiembre 6 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Puerto Rican Power",
+    "tema": "Adónde Irás Sin Mí",
+    "video": "https://www.youtube.com/watch?v=jVXVWfxRBBA"
+  },
+  {
+    "fecha": "Septiembre 6 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Elvis Presley",
+    "tema": "It's Now or Never",
+    "video": "https://www.youtube.com/watch?v=OAWLnNKmNZM"
+  },
+  {
+    "fecha": "Septiembre 6 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Guns N Roses",
+    "tema": "It's So Easy",
+    "video": "https://www.youtube.com/watch?v=FMbl1ntpIXQ"
+  },
+  {
+    "fecha": "Septiembre 6 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Elvis Presley",
+    "tema": "Guadalajara",
+    "video": "https://www.youtube.com/watch?v=gk3LXQxmJ6k"
+  },
+  {
+    "fecha": "Septiembre 5 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "La Maxima 79",
+    "tema": "La Fugitiva",
+    "video": "https://www.youtube.com/watch?v=A4gkauu10d4"
+  },
+  {
+    "fecha": "Septiembre 5 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Fernando Torres",
+    "tema": "Nosotros",
+    "video": "https://www.youtube.com/watch?v=lN_jytoCAxQ"
+  },
+  {
+    "fecha": "Septiembre 5 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Celtic Frost",
+    "tema": "Mexican Radio",
+    "video": "https://www.youtube.com/watch?v=PIrI50wSAYs"
+  },
+  {
+    "fecha": "Septiembre 5 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Fernando Torres",
+    "tema": "Desesperadamente",
+    "video": "https://www.youtube.com/watch?v=iB_ggiAB6rA"
+  },
+  {
+    "fecha": "Septiembre 2 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Ismael Rivera",
+    "tema": "Satelite",
+    "video": "https://www.youtube.com/watch?v=dMTY4n1y5ZY"
+  },
+  {
+    "fecha": "Septiembre 2 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Barbarito Diez",
+    "tema": "Allí donde tu sabes",
+    "video": "https://www.youtube.com/watch?v=kCG46JfK41Q"
+  },
+  {
+    "fecha": "Septiembre 2 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Metallica",
+    "tema": "Master of Puppets",
+    "video": "https://www.youtube.com/watch?v=6xjJ2XIbGRk"
+  },
+  {
+    "fecha": "Septiembre 2 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Barbarito Diez",
+    "tema": "Bajo un Palmar",
+    "video": "https://www.youtube.com/watch?v=6-lzv09iEBw"
+  },
+  {
+    "fecha": "Septiembre 1 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Pete Rodriguez",
+    "tema": "Aquí Estoy Yo",
+    "video": "https://www.youtube.com/watch?v=gKtU738rV18"
+  },
+  {
+    "fecha": "Septiembre 1 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Alejandro Fernandez",
+    "tema": "Te Olvidé",
+    "video": "https://www.youtube.com/watch?v=-mkLl9H8JTs"
+  },
+  {
+    "fecha": "Septiembre 1 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Sevendust",
+    "tema": "Praise",
+    "video": "https://www.youtube.com/watch?v=hy17DWrjNT0"
+  },
+  {
+    "fecha": "Septiembre 1 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Alejandro Fernandez",
+    "tema": "Mátalas",
+    "video": "https://www.youtube.com/watch?v=GjVa2o8-WnI"
+  }
+]
