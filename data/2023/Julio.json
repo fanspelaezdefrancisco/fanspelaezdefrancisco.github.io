@@ -1,0 +1,86 @@
+[
+    {
+      "fecha": "Julio 6 de 2023",
+      "seccion": "La otra de Martín",
+      "artista": "Silvio Rodríguez",
+      "tema": "Esto No Es Una Elegía",
+      "video": "https://www.youtube.com/watch?v=_lDhdyDZrhM"
+    },
+    {
+        "fecha": "Julio 6 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Ligia Mayo",
+        "tema": "Que Murmuren",
+        "video": "https://www.youtube.com/watch?v=6rw3GYceUI8"
+    },
+    {
+        "fecha": "Julio 6 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Iron Maiden",
+        "tema": "Revelations",
+        "video": "https://www.youtube.com/watch?v=ClUB7_8xjEw"
+    },
+    {
+        "fecha": "Julio 6 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Ligia Mayo",
+        "tema": "Cataclismo",
+        "video": "https://www.youtube.com/watch?v=EN5Hb0aBaAo"
+    },
+    {
+        "fecha": "Julio 5 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Bola de Nieve",
+        "tema": "Vete de Mi",
+        "video": "https://www.youtube.com/watch?v=d2AReKO6bMw"
+    },
+    {
+          "fecha": "Julio 5 de 2023",
+          "seccion": "La otra de Pelaez",
+          "artista": "Eliades Ochoa y el Cuarteto Patria",
+          "tema": "Al Vaiven de mi Carreta",
+          "video": "https://www.youtube.com/watch?v=D8Irgnw9oxw"
+    },
+    {
+          "fecha": "Julio 5 de 2023",
+          "seccion": "La de Martín",
+          "artista": "Nirvana",
+          "tema": "On a Plane",
+          "video": "https://www.youtube.com/watch?v=c023U4oQGr4"
+    },
+    {
+          "fecha": "Julio 5 de 2023",
+          "seccion": "La de Pelaez",
+          "artista": "Eliades Ochoa",
+          "tema": "Amarrao con P",
+          "video": "https://www.youtube.com/watch?v=AWL6TEngy7Q"
+    },
+    {
+        "fecha": "Julio 4 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Andrés Calamaro",
+        "tema": "Como Dos Extraños",
+        "video": "https://www.youtube.com/watch?v=wJDekqJjyHQ"
+    },
+    {
+          "fecha": "Julio 4 de 2023",
+          "seccion": "La otra de Pelaez",
+          "artista": "Lucho Gatica",
+          "tema": "Amémonos",
+          "video": "https://www.youtube.com/watch?v=3ul5vk_9EGw"
+    },
+    {
+          "fecha": "Julio 4 de 2023",
+          "seccion": "La de Martín",
+          "artista": "The Smashing Pumpkins",
+          "tema": "Rocket",
+          "video": "https://www.youtube.com/watch?v=Th-AqMvvBzE"
+    },
+    {
+          "fecha": "Julio 4 de 2023",
+          "seccion": "La de Pelaez",
+          "artista": "Lucho Gatica",
+          "tema": "El Reloj",
+          "video": "https://www.youtube.com/watch?v=0WHThC5AgCQ"
+    }
+]
