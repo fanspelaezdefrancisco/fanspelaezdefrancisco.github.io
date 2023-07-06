@@ -52,7 +52,7 @@ function loadJson() {
                         <br>
                         Tema: ${element1['tema']}
                         <br>
-                        <a href='https://www.youtube.com/embed/${videoYTCode1[1]}' target='_blank' rel='noopener noreferrer'>${element1.artista} - ${element1.tema}</a>
+                        <a href='${element1['video']}' target='_blank' rel='noopener noreferrer'>${element1.artista} - ${element1.tema}</a>
                         <br><br>
                         <iframe width='460' height='259' src='https://www.youtube.com/embed/${videoYTCode1[1]}' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>
                         <br><br>
@@ -66,7 +66,7 @@ function loadJson() {
                         <br>
                         Tema: ${element2['tema']}
                         <br>
-                        <a href='https://www.youtube.com/embed/${videoYTCode2[1]}' target='_blank' rel='noopener noreferrer'>${element2.artista} - ${element2.tema}</a>
+                        <a href='${element2['video']}' target='_blank' rel='noopener noreferrer'>${element2.artista} - ${element2.tema}</a>
                         <br><br>
                         <iframe width='460' height='259' src='https://www.youtube.com/embed/${videoYTCode2[1]}' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>
                         <br><br>
