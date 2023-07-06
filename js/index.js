@@ -1,7 +1,7 @@
 window.onload = () => {
     ReadSwitch()
 }
-
+/*
 fetch('php/FetchYearDirectories.php')
 .then(response => response.json())
 .then(data => {
@@ -46,6 +46,7 @@ async function FetchMonthsByYear(year){
     const response = await fetch(`php/FetchMonthFiles.php?year=${year}`)
     return await response.json()
 }
+*/
 
 flexSwitchCheck.addEventListener("change", () => {
     ReadSwitch()
