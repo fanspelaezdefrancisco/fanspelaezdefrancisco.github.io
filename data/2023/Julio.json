@@ -1,5 +1,33 @@
 [
     {
+      "fecha": "Julio 7 de 2023",
+      "seccion": "La otra de Martín",
+      "artista": "Hector Lavoe y Willie Colon",
+      "tema": "Che Che Colé",
+      "video": "https://www.youtube.com/watch?v=XgId1N1UbLs"
+    },
+    {
+        "fecha": "Julio 7 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Ismael Quintana",
+        "tema": "Mi Debilidad",
+        "video": "https://www.youtube.com/watch?v=G4r8T3R8Kjk"
+    },
+    {
+        "fecha": "Julio 7 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Seek And Destroy",
+        "video": "https://www.youtube.com/watch?v=FLTchCiC0T0"
+    },
+    {
+        "fecha": "Julio 7 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Ismael Quintana",
+        "tema": "Al Mirarte A Ti",
+        "video": "https://www.youtube.com/watch?v=V76HsepqFfM"
+    },
+    {
       "fecha": "Julio 6 de 2023",
       "seccion": "La otra de Martín",
       "artista": "Silvio Rodríguez",
