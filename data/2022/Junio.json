@@ -1,0 +1,562 @@
+[
+  {
+    "fecha": "Junio 30 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Oasis And Zico",
+    "tema": "Crush",
+    "video": "https://www.youtube.com/watch?v=_1SX7W1IfJw"
+  },
+  {
+    "fecha": "Junio 30 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Pasteles Verdes",
+    "tema": "El Reloj",
+    "video": "https://www.youtube.com/watch?v=rBm9dpal8bU"
+  },
+  {
+    "fecha": "Junio 30 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Hatriot",
+    "tema": "The Mechanics of Anihilation",
+    "video": "https://www.youtube.com/watch?v=qS7siajZXfA"
+  },
+  {
+    "fecha": "Junio 30 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Recuerdos de Una Noche",
+    "tema": "Los Pasteles Verdes",
+    "video": "https://www.youtube.com/watch?v=i4z-iVYhoWM"
+  },
+  {
+    "fecha": "Junio 29 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "JONGHYUN",
+    "tema": "Orbit",
+    "video": "https://www.youtube.com/watch?v=m9kM1K7jg80"
+  },
+  {
+    "fecha": "Junio 29 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Cuates Castilla",
+    "tema": "El Pastor",
+    "video": "https://www.youtube.com/watch?v=C9r4bcZ3nas"
+  },
+  {
+    "fecha": "Junio 29 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Municipal Waste",
+    "tema": "Grave Dive",
+    "video": "https://www.youtube.com/watch?v=oMchF3XeRD4"
+  },
+  {
+    "fecha": "Junio 29 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Los Cuates Castilla",
+    "tema": "Cuando Ya No Me Quieras",
+    "video": "https://www.youtube.com/watch?v=xSePojMdz9Q"
+  },
+  {
+    "fecha": "Junio 28 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Stevie Wonder",
+    "tema": "Isnt She Lovely",
+    "video": "https://www.youtube.com/watch?v=oE56g61mW44"
+  },
+  {
+    "fecha": "Junio 28 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "René Cabel",
+    "tema": "Lejos de Ti",
+    "video": "https://www.youtube.com/watch?v=VwgKl_y4mgs"
+  },
+  {
+    "fecha": "Junio 28 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Dirty Rotten Imbeciles D.R.I",
+    "tema": "Syringes In The Sandbox",
+    "video": "https://www.youtube.com/watch?v=LR6rsSDN_Y4"
+  },
+  {
+    "fecha": "Junio 28 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "René Cabel",
+    "tema": "Palabras de Mujer",
+    "video": "https://www.youtube.com/watch?v=W1ysuHqH66A"
+  },
+  {
+    "fecha": "Junio 24 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "2Pac",
+    "tema": "I Get Around",
+    "video": "https://www.youtube.com/watch?v=9_bQHQxKFQY"
+  },
+  {
+    "fecha": "Junio 24 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Richy Ray Y Bobby Cruz",
+    "tema": "Amparo Arrebato",
+    "video": "https://www.youtube.com/watch?v=hktDtFrlVjQ"
+  },
+  {
+    "fecha": "Junio 24 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Slayer",
+    "tema": "Black Serenade",
+    "video": "https://www.youtube.com/watch?v=sdyWfMEQ7_s"
+  },
+  {
+    "fecha": "Junio 24 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Richy Ray Y Bobby Cruz",
+    "tema": "Aguzate",
+    "video": "https://www.youtube.com/watch?v=SWsPQWDfVEU"
+  },
+  {
+    "fecha": "Junio 23 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Niña Pastori",
+    "tema": "Contigo",
+    "video": "https://www.youtube.com/watch?v=ovf-gPdX3gE"
+  },
+  {
+    "fecha": "Junio 23 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Julio Cesar Alzate",
+    "tema": "Verde Mar",
+    "video": "https://www.youtube.com/watch?v=ZWF9wnW0pi0"
+  },
+  {
+    "fecha": "Junio 23 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Traitor",
+    "tema": "Spiritual Warfare",
+    "video": "https://www.youtube.com/watch?v=TCfw_Av2cHY"
+  },
+  {
+    "fecha": "Junio 23 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Julio Cesar Alzate",
+    "tema": "Alma Llanera",
+    "video": "https://www.youtube.com/watch?v=PQKjLh6YMnQ"
+  },
+  {
+    "fecha": "Junio 22 de 2022",
+    "seccion": "La otra de Martín",
+    "artista": "Ivan Lins",
+    "tema": "Vitoriosa",
+    "video": "https://www.youtube.com/watch?v=Dq43yo42r0c"
+  },
+  {
+    "fecha": "Junio 22 de 2022",
+    "seccion": "La otra de Pelaez",
+    "artista": "Los Llopis",
+    "tema": "Estremécete",
+    "video": "https://www.youtube.com/watch?v=UvhgjDcNyc0"
+  },
+  {
+    "fecha": "Junio 22 de 2022",
+    "seccion": "La de Martín",
+    "artista": "Metallica",
+    "tema": "Leper Messiah",
+    "video": "https://www.youtube.com/watch?v=JYALpvUGNk8"
+  },
+  {
+    "fecha": "Junio 22 de 2022",
+    "seccion": "La de Pelaez",
+    "artista": "Los Llopis",
+    "tema": "Hasta La Vista Cocodrilo",
+    "video": "https://www.youtube.com/watch?v=Nd-lP3aAIac"
+  },
+  {
+    "fecha": "Junio 21 de 2021",
+    "seccion": "La otra de Martín",
+    "artista": "Chico Buarque",
+    "tema": "Que Tal Um Samba",
+    "video": "https://www.youtube.com/watch?v=1yW77WeLYYc"
+  },
+  {
+    "fecha": "Junio 21 de 2021",
+    "seccion": "La otra de Pelaez",
+    "artista": "Ray Charles",
+    "tema": "Let It Be",
+    "video": "https://www.youtube.com/watch?v=jBmff-6GG0I"
+  },
+  {
+    "fecha": "Junio 21 de 2021",
+    "seccion": "La de Martín",
+    "artista": "Traitor",
+    "tema": "Death Division",
+    "video": "https://www.youtube.com/watch?v=noUarl7RJIs"
+  },
+  {
+    "fecha": "Junio 21 de 2021",
+    "seccion": "La de Pelaez",
+    "artista": "Ray Charles",
+    "tema": "I Can't Stop Loving You",
+    "video": "https://www.youtube.com/watch?v=YDqwmaI_IdU"
+  },
+  {
+    "fecha": "Junio 17 de 2017",
+    "seccion": "La otra de Martín",
+    "artista": "La Charanga Habanera",
+    "tema": "Dime Que Te Quedarás",
+    "video": "https://www.youtube.com/watch?v=0zhFeX0YMOw"
+  },
+  {
+    "fecha": "Junio 17 de 2017",
+    "seccion": "La otra de Pelaez",
+    "artista": "La Sonora Santanera",
+    "tema": "El Orangután",
+    "video": "https://www.youtube.com/watch?v=jeuaP2PlGzM"
+  },
+  {
+    "fecha": "Junio 17 de 2017",
+    "seccion": "La de Martín",
+    "artista": "Slayer",
+    "tema": "Expendable Youth",
+    "video": "https://www.youtube.com/watch?v=q4MQ0Zgy7Oc"
+  },
+  {
+    "fecha": "Junio 17 de 2017",
+    "seccion": "La de Pelaez",
+    "artista": "La Sonora Santanera",
+    "tema": "Bonita y Mentirosa",
+    "video": "https://www.youtube.com/watch?v=mnfDhJrMtgc"
+  },
+  {
+    "fecha": "Junio 16 de 2016",
+    "seccion": "La otra de Martín",
+    "artista": "Sergio Mendes",
+    "tema": "Timeless",
+    "video": "https://www.youtube.com/watch?v=Oetdl0QuxYQ"
+  },
+  {
+    "fecha": "Junio 16 de 2016",
+    "seccion": "La otra de Pelaez",
+    "artista": "Palito Ortega",
+    "tema": "La Felicidad",
+    "video": "https://www.youtube.com/watch?v=Z9As8OJ165w"
+  },
+  {
+    "fecha": "Junio 16 de 2016",
+    "seccion": "La de Martín",
+    "artista": "Pantera",
+    "tema": "Revolution Is My Name",
+    "video": "https://www.youtube.com/watch?v=_XI1DD_vJuY"
+  },
+  {
+    "fecha": "Junio 16 de 2016",
+    "seccion": "La de Pelaez",
+    "artista": "Palito Ortega",
+    "tema": "Yo Tengo Fe",
+    "video": "https://www.youtube.com/watch?v=8GFWs2IDUd4"
+  },
+  {
+    "fecha": "Junio 15 de 2015",
+    "seccion": "La otra de Martín",
+    "artista": "Klimax",
+    "tema": "Lo Que Me Faltó Por Hacerte",
+    "video": "https://www.youtube.com/watch?v=At08I5s3AOU"
+  },
+  {
+    "fecha": "Junio 15 de 2015",
+    "seccion": "La otra de Pelaez",
+    "artista": "Juan Gabriel",
+    "tema": "Querida",
+    "video": "https://www.youtube.com/watch?v=mmt4EO3oXSI"
+  },
+  {
+    "fecha": "Junio 15 de 2015",
+    "seccion": "La de Martín",
+    "artista": "Sepultura",
+    "tema": "Lobotomy",
+    "video": "https://www.youtube.com/watch?v=0nQdt18vmvk"
+  },
+  {
+    "fecha": "Junio 15 de 2015",
+    "seccion": "La de Pelaez",
+    "artista": "Juan Gabriel",
+    "tema": "La Farsante",
+    "video": "https://www.youtube.com/watch?v=_YZst3v1lTM"
+  },
+  {
+    "fecha": "Junio 14 de 2014",
+    "seccion": "La otra de Martín",
+    "artista": "La Charanga Habanera",
+    "tema": "Hagamos un Chen",
+    "video": "https://www.youtube.com/watch?v=uwt5uWbhxbA"
+  },
+  {
+    "fecha": "Junio 14 de 2014",
+    "seccion": "La otra de Pelaez",
+    "artista": "Nat King Cole",
+    "tema": "Adelita",
+    "video": "https://www.youtube.com/watch?v=AbCFtXrpVaA"
+  },
+  {
+    "fecha": "Junio 14 de 2014",
+    "seccion": "La de Martín",
+    "artista": "KISS",
+    "tema": "Nothing To Lose",
+    "video": "https://www.youtube.com/watch?v=FB0wDTVIT58"
+  },
+  {
+    "fecha": "Junio 14 de 2014",
+    "seccion": "La de Pelaez",
+    "artista": "Nat King Cole",
+    "tema": "Ansiedad",
+    "video": "https://www.youtube.com/watch?v=mh00dH0bdS8"
+  },
+  {
+    "fecha": "Junio 13 de 2013",
+    "seccion": "La otra de Martín",
+    "artista": "Adalberto Alvarez",
+    "tema": "Una mulata en la Habana",
+    "video": "https://www.youtube.com/watch?v=7xvj9lsdozs"
+  },
+  {
+    "fecha": "Junio 13 de 2013",
+    "seccion": "La otra de Pelaez",
+    "artista": "Marta Catalina",
+    "tema": "No Podrás",
+    "video": "https://www.youtube.com/watch?v=aXTeGObdDB8"
+  },
+  {
+    "fecha": "Junio 13 de 2013",
+    "seccion": "La de Martín",
+    "artista": "Bonafide",
+    "tema": "One Kiss",
+    "video": "https://www.youtube.com/watch?v=9afB9aQnojk"
+  },
+  {
+    "fecha": "Junio 13 de 2013",
+    "seccion": "La de Pelaez",
+    "artista": "Martha Catalina",
+    "tema": "Vacio",
+    "video": "https://www.youtube.com/watch?v=Iw69WoOEg0o"
+  },
+  {
+    "fecha": "Junio 10 de 2010",
+    "seccion": "La otra de Martín",
+    "artista": "Klimax",
+    "tema": "Una corazonada",
+    "video": "https://www.youtube.com/watch?v=KXwHYZw0hME"
+  },
+  {
+    "fecha": "Junio 10 de 2010",
+    "seccion": "La otra de Pelaez",
+    "artista": "Monguito Santamaria",
+    "tema": "Ven A Guarachar",
+    "video": "https://www.youtube.com/watch?v=XNKun5D0Iek"
+  },
+  {
+    "fecha": "Junio 10 de 2010",
+    "seccion": "La de Martín",
+    "artista": "Slayer",
+    "tema": "Overt Enemy",
+    "video": "https://www.youtube.com/watch?v=4tPiNXRflQA"
+  },
+  {
+    "fecha": "Junio 10 de 2010",
+    "seccion": "La de Pelaez",
+    "artista": "Monguito",
+    "tema": "Guaguancó Sabroso",
+    "video": "https://www.youtube.com/watch?v=xrRZjLJsZk4"
+  },
+  {
+    "fecha": "Junio 9 de 209",
+    "seccion": "La otra de Martín",
+    "artista": "Martinho Da Vila",
+    "tema": "Viajando",
+    "video": "https://www.youtube.com/watch?v=3kDrsbT_yEk"
+  },
+  {
+    "fecha": "Junio 9 de 209",
+    "seccion": "La otra de Pelaez",
+    "artista": "Oscar Golden",
+    "tema": "Boca De Chicle",
+    "video": "https://www.youtube.com/watch?v=MiT8xaeI9cY"
+  },
+  {
+    "fecha": "Junio 9 de 209",
+    "seccion": "La de Martín",
+    "artista": "Sacred Reich",
+    "tema": "Surf Nicaragua",
+    "video": "https://www.youtube.com/watch?v=K1s9xwTfXD0"
+  },
+  {
+    "fecha": "Junio 9 de 209",
+    "seccion": "La de Pelaez",
+    "artista": "Oscar Golden",
+    "tema": "Zapatos Pom Pom",
+    "video": "https://www.youtube.com/watch?v=JVZNRwO93-M"
+  },
+  {
+    "fecha": "Junio 8 de 208",
+    "seccion": "La otra de Martín",
+    "artista": "La Charanga Habanera",
+    "tema": "Lola Lola",
+    "video": "https://www.youtube.com/watch?v=T3LOTsBndP4"
+  },
+  {
+    "fecha": "Junio 8 de 208",
+    "seccion": "La otra de Pelaez",
+    "artista": "Virginia Lopez",
+    "tema": "Tus Promesas De Amor",
+    "video": "https://www.youtube.com/watch?v=SMBmPToVpGQ"
+  },
+  {
+    "fecha": "Junio 8 de 208",
+    "seccion": "La de Martín",
+    "artista": "Aerosmith",
+    "tema": "My Fist Your Face",
+    "video": "https://www.youtube.com/watch?v=psX1FCiKBU8"
+  },
+  {
+    "fecha": "Junio 8 de 208",
+    "seccion": "La de Pelaez",
+    "artista": "Virginia Lopez",
+    "tema": "Cariñito Azucarado",
+    "video": "https://www.youtube.com/watch?v=XNUMEAoRf90"
+  },
+  {
+    "fecha": "Junio 7 de 207",
+    "seccion": "La otra de Martín",
+    "artista": "Karen Souza",
+    "tema": "Have You Ever Seen The Rain",
+    "video": "https://www.youtube.com/watch?v=XLvdiNhg2m4"
+  },
+  {
+    "fecha": "Junio 7 de 207",
+    "seccion": "La otra de Pelaez",
+    "artista": "Orquesta Original de Manzanillo",
+    "tema": "El Cinturon Del Taxi",
+    "video": "https://www.youtube.com/watch?v=HCujroWb5Yk"
+  },
+  {
+    "fecha": "Junio 7 de 207",
+    "seccion": "La de Martín",
+    "artista": "Disturbed",
+    "tema": "Stricken",
+    "video": "https://www.youtube.com/watch?v=I77mjesUbkw"
+  },
+  {
+    "fecha": "Junio 7 de 207",
+    "seccion": "La de Pelaez",
+    "artista": "Orquesta Original de Manzanillo",
+    "tema": "Mi Sombrero de Yarey",
+    "video": "https://www.youtube.com/watch?v=PhKRW100NPo"
+  },
+  {
+    "fecha": "Junio 6 de 206",
+    "seccion": "La otra de Martín",
+    "artista": "Warren G",
+    "tema": "This DJ",
+    "video": "https://www.youtube.com/watch?v=jEJa7t4ST0I"
+  },
+  {
+    "fecha": "Junio 6 de 206",
+    "seccion": "La otra de Pelaez",
+    "artista": "Luis Miguel",
+    "tema": "La Media Vuelta",
+    "video": "https://www.youtube.com/watch?v=VMJnlN8OkgI"
+  },
+  {
+    "fecha": "Junio 6 de 206",
+    "seccion": "La de Martín",
+    "artista": "Death Angel",
+    "tema": "The Moth",
+    "video": "https://www.youtube.com/watch?v=8MbDL-Kj73k"
+  },
+  {
+    "fecha": "Junio 6 de 206",
+    "seccion": "La de Pelaez",
+    "artista": "Luis Miguel",
+    "tema": "No Se Tú",
+    "video": "https://www.youtube.com/watch?v=T_oE3qkbo5s"
+  },
+  {
+    "fecha": "Junio 3 de 203",
+    "seccion": "La otra de Martín",
+    "artista": "Novos Baianos",
+    "tema": "Acabou Chorare",
+    "video": "https://www.youtube.com/watch?v=2vQcNKXp-1w"
+  },
+  {
+    "fecha": "Junio 3 de 203",
+    "seccion": "La otra de Pelaez",
+    "artista": "Belisario López y Su Charanga",
+    "tema": "Yo No Tumbo Caña",
+    "video": "https://www.youtube.com/watch?v=-sEpXmU3rMs"
+  },
+  {
+    "fecha": "Junio 3 de 203",
+    "seccion": "La de Martín",
+    "artista": "Slayer",
+    "tema": "World Painted Blood",
+    "video": "https://www.youtube.com/watch?v=_wRH9esYgnk"
+  },
+  {
+    "fecha": "Junio 3 de 203",
+    "seccion": "La de Pelaez",
+    "artista": "Belisario López y Su Charanga",
+    "tema": "En Casa De Estanislao",
+    "video": "https://www.youtube.com/watch?v=5vkKXBGef9I"
+  },
+  {
+    "fecha": "Junio 2 de 202",
+    "seccion": "La otra de Martín",
+    "artista": "Seru Girán",
+    "tema": "San Francisco Y EL Lobo",
+    "video": "https://www.youtube.com/watch?v=jmB6kHYuZlg"
+  },
+  {
+    "fecha": "Junio 2 de 202",
+    "seccion": "La otra de Pelaez",
+    "artista": "Memo Morales con La Billos Caracas Boys",
+    "tema": "Rumores",
+    "video": "https://www.youtube.com/watch?v=LCQrFtPpUCQ"
+  },
+  {
+    "fecha": "Junio 2 de 202",
+    "seccion": "La de Martín",
+    "artista": "Exodus",
+    "tema": "Throwing Down",
+    "video": "https://www.youtube.com/watch?v=yNdBIpzz7Rg"
+  },
+  {
+    "fecha": "Junio 2 de 202",
+    "seccion": "La de Pelaez",
+    "artista": "Memo Morales",
+    "tema": "Ni Se Compra Ni Se Vende",
+    "video": "https://www.youtube.com/watch?v=HVWKPqeDNZE"
+  },
+  {
+    "fecha": "Junio 1 de 101",
+    "seccion": "La otra de Martín",
+    "artista": "Djavan",
+    "tema": "Humbiumbi",
+    "video": "https://www.youtube.com/watch?v=QSwrzkvEkhA"
+  },
+  {
+    "fecha": "Junio 1 de 101",
+    "seccion": "La otra de Pelaez",
+    "artista": "Tom Jones",
+    "tema": "Please Release Me",
+    "video": "https://www.youtube.com/watch?v=pc_xracdpnI"
+  },
+  {
+    "fecha": "Junio 1 de 101",
+    "seccion": "La de Martín",
+    "artista": "Anthrax And Public Enemy",
+    "tema": "Bring Tha Noize",
+    "video": "https://www.youtube.com/watch?v=FQ3WZaKjHNQ"
+  },
+  {
+    "fecha": "Junio 1 de 101",
+    "seccion": "La de Pelaez",
+    "artista": "Tom Jones",
+    "tema": "Delilah",
+    "video": "https://www.youtube.com/watch?v=Qvo5SeAwz88"
+  }
+]
