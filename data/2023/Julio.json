@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 10 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Gustavo Cerati",
+        "tema": "Adiós",
+        "video": "https://www.youtube.com/watch?v=GUf81ofAZV0"
+    },
+    {
+        "fecha": "Julio 10 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Rocío Durcal",
+        "tema": "Me Gustas Mucho",
+        "video": "https://www.youtube.com/watch?v=Mu0_5AM2ETY"
+    },
+    {
+        "fecha": "Julio 10 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Anthrax",
+        "tema": "A.I.R",
+        "video": "https://www.youtube.com/watch?v=U7qs40KJBMM"
+    },
+    {
+        "fecha": "Julio 10 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Rocío Durcal",
+        "tema": "Me Nace del Corazón",
+        "video": "https://www.youtube.com/watch?v=fyCdxyb7qWg"
+    },
+    {
       "fecha": "Julio 7 de 2023",
       "seccion": "La otra de Martín",
       "artista": "Hector Lavoe y Willie Colon",
