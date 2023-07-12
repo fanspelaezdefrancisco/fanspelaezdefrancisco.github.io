@@ -1,5 +1,61 @@
 [
     {
+        "fecha": "Julio 12 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Ed Motta",
+        "tema": "Your Satisfaction Is Mine",
+        "video": "https://www.youtube.com/watch?v=M2YH2NQg7Y0"
+    },
+    {
+        "fecha": "Julio 12 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Juan Legido con Los Churumbeles de España",
+        "tema": "No Te Puedo Querer",
+        "video": "https://www.youtube.com/watch?v=BYGH3xFeeoc"
+    },
+    {
+        "fecha": "Julio 12 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Pearl Jam",
+        "tema": "Life Wasted",
+        "video": "https://www.youtube.com/watch?v=utPBbBzQs08"
+    },
+    {
+        "fecha": "Julio 12 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Juan Legido",
+        "tema": "La Zarzamora",
+        "video": "https://www.youtube.com/watch?v=gwLXOageNfQ"
+    },
+    {
+        "fecha": "Julio 11 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Chico Buarque",
+        "tema": "Construção",
+        "video": "https://www.youtube.com/watch?v=wBfVsucRe1w"
+    },
+    {
+        "fecha": "Julio 11 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Trini Lopez",
+        "tema": "La Bamba",
+        "video": "https://www.youtube.com/watch?v=6KiYTTRMgkY"
+    },
+    {
+        "fecha": "Julio 11 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Bloodhound Gang",
+        "tema": "The Ballad Of Chasey Lain",
+        "video": "https://www.youtube.com/watch?v=If9fC9aJd-U"
+    },
+    {
+        "fecha": "Julio 11 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Trini Lopez",
+        "tema": "If I Had a Hammer",
+        "video": "https://www.youtube.com/watch?v=y7INpfQEPkE"
+    },
+    {
         "fecha": "Julio 10 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Gustavo Cerati",
