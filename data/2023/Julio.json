@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 13 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "2Pac",
+        "tema": "I Get Around",
+        "video": "https://www.youtube.com/watch?v=9_bQHQxKFQY"
+    },
+    {
+        "fecha": "Julio 13 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Victor Hugo Ayala",
+        "tema": "Las Perlas De Tu Boca",
+        "video": "https://www.youtube.com/watch?v=3xfO_1c5WyM"
+    },
+    {
+        "fecha": "Julio 13 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Led Zeppelin",
+        "tema": "Black Dog",
+        "video": "https://www.youtube.com/watch?v=yBuub4Xe1mw"
+    },
+    {
+        "fecha": "Julio 13 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Victor Hugo Ayala",
+        "tema": "La Quiero Porque La Quiero",
+        "video": "https://www.youtube.com/watch?v=i9yCTifBAts"
+    },
+    {
         "fecha": "Julio 12 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Ed Motta",
