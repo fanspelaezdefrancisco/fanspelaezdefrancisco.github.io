@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 14 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Antonio Carmona",
+        "tema": "Lucia Fernanda",
+        "video": "https://www.youtube.com/watch?v=vnRBNXcj964"
+    },
+    {
+        "fecha": "Julio 14 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Johnny Ventura",
+        "tema": "Pitaste",
+        "video": "https://www.youtube.com/watch?v=W8DO74HMgnE"
+    },
+    {
+        "fecha": "Julio 14 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Megadeth",
+        "tema": "Hook In Mouth",
+        "video": "https://www.youtube.com/watch?v=7-XVbLmexU8"
+    },
+    {
+        "fecha": "Julio 14 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Johnny Ventura",
+        "tema": "Patacón Pisao",
+        "video": "https://www.youtube.com/watch?v=URutMd2gQ9U"
+    },
+    {
         "fecha": "Julio 13 de 2023",
         "seccion": "La otra de Martín",
         "artista": "2Pac",
