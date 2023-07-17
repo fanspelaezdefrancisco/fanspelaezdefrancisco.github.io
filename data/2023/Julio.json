@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 17 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Gal Costa",
+        "tema": "Qué Pena",
+        "video": "https://www.youtube.com/watch?v=rYsCGDJ9fi8"
+    },
+    {
+        "fecha": "Julio 17 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Luis Miguel",
+        "tema": "Si Nos Dejan",
+        "video": "https://www.youtube.com/watch?v=qQZvCgoaj7o"
+    },
+    {
+        "fecha": "Julio 17 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Soundgarden",
+        "tema": "My Wave",
+        "video": "https://www.youtube.com/watch?v=HEbYxEXM2cE"
+    },
+    {
+        "fecha": "Julio 17 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Luis Miguel",
+        "tema": "La Bikina",
+        "video": "https://www.youtube.com/watch?v=NCvJwzDQTBM"
+    },
+    {
         "fecha": "Julio 14 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Antonio Carmona",
