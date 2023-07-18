@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 18 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Willie Colón y Ruben Blades",
+        "tema": "Ojos",
+        "video": "https://www.youtube.com/watch?v=U-qYUUbLMa4"
+    },
+    {
+        "fecha": "Julio 18 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Sara Montiel",
+        "tema": "La Violetera",
+        "video": "https://www.youtube.com/watch?v=I1Rll1KKSB8"
+    },
+    {
+        "fecha": "Julio 18 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "You Must Burn",
+        "video": "https://www.youtube.com/watch?v=YBq9Kfdp6O4"
+    },
+    {
+        "fecha": "Julio 18 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Sara Montiel",
+        "tema": "Fumando Espero",
+        "video": "https://www.youtube.com/watch?v=dFR2kDm9vxM"
+    },
+    {
         "fecha": "Julio 17 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Gal Costa",
