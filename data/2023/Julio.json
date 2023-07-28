@@ -1,5 +1,201 @@
 [
     {
+        "fecha": "Julio 28 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Polo Montañez",
+        "tema": "Un Montón De Estrellas",
+        "video": "https://www.youtube.com/watch?v=_3bsI9AK8Ak"
+    },
+    {
+        "fecha": "Julio 28 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Juan Piña",
+        "tema": "El Machín",
+        "video": "https://www.youtube.com/watch?v=NIfLGyfI7Uk"
+    },
+    {
+        "fecha": "Julio 28 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Evile",
+        "tema": "Cult",
+        "video": "https://www.youtube.com/watch?v=s0P2Gr5Ucfk"
+    },
+    {
+        "fecha": "Julio 28 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Juan Piña",
+        "tema": "La Rama Del Tamarindo",
+        "video": "https://www.youtube.com/watch?v=hzK5gwUL344"
+    },
+    {
+        "fecha": "Julio 27 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Montse Cortés",
+        "tema": "La Noche",
+        "video": "https://www.youtube.com/watch?v=LV-tcIqMFyQ"
+    },
+    {
+        "fecha": "Julio 27 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Juan Nicolás Estela",
+        "tema": "La Enamorada De Un Amigo Mio",
+        "video": "https://www.youtube.com/watch?v=xoby4qmExKw"
+    },
+    {
+        "fecha": "Julio 27 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Pixies",
+        "tema": "Baals Back",
+        "video": "https://www.youtube.com/watch?v=-M3NYDaV5Pc"
+    },
+    {
+        "fecha": "Julio 27 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Juan Nicolas Estela",
+        "tema": "La Chica Del Billete",
+        "video": "https://www.youtube.com/watch?v=Z2ns0B_Q1RE"
+    },
+    {
+        "fecha": "Julio 26 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Chris Cornell",
+        "tema": "Wave Goodbye",
+        "video": "https://www.youtube.com/watch?v=blhEOSFGrqY"
+    },
+    {
+        "fecha": "Julio 26 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Lola Beltrán",
+        "tema": "No Volveré",
+        "video": "https://www.youtube.com/watch?v=0dEtOgw1QAk"
+    },
+    {
+        "fecha": "Julio 26 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Evile",
+        "tema": "Monolith",
+        "video": "https://www.youtube.com/watch?v=zQ4H5BgDsgg"
+    },
+    {
+        "fecha": "Julio 26 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Lola Beltrán",
+        "tema": "La Noche de Mi Mal",
+        "video": "https://www.youtube.com/watch?v=EpWHeH56PI0"
+    },
+    {
+        "fecha": "Julio 25 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Antonio Carmona",
+        "tema": "Volver A Empezar",
+        "video": "https://www.youtube.com/watch?v=chJ3nP8JpS8"
+    },
+    {
+        "fecha": "Julio 25 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "José Luis Moneró",
+        "tema": "Prisionero Del Mar",
+        "video": "https://www.youtube.com/watch?v=y7h_bJZeDL0"
+    },
+    {
+        "fecha": "Julio 25 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Phil Conalane",
+        "tema": "Dirty Your Halo",
+        "video": "https://www.youtube.com/watch?v=2NOJq6xRIfA"
+    },
+    {
+        "fecha": "Julio 25 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "José Luis Moneró",
+        "tema": "Perfume de Gardenias",
+        "video": "https://www.youtube.com/watch?v=pQNynuFP4bc"
+    },
+    {
+        "fecha": "Julio 24 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Antonio Carmona",
+        "tema": "Una, 2 y 3",
+        "video": "https://www.youtube.com/watch?v=T8PTCmdeO7A"
+    },
+    {
+        "fecha": "Julio 24 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Luis Aguilé",
+        "tema": "Pecos Bill",
+        "video": "https://www.youtube.com/watch?v=6sAeeFgq0lU"
+    },
+    {
+        "fecha": "Julio 24 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Megadeth",
+        "tema": "The Emperor",
+        "video": "https://www.youtube.com/watch?v=fc5HrBxWG-Q"
+    },
+    {
+        "fecha": "Julio 24 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Luis Aguilé",
+        "tema": "Cuando Salí De Cuba",
+        "video": "https://www.youtube.com/watch?v=yDme2h5gfWY"
+    },
+    {
+        "fecha": "Julio 21 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Poncho Sanchez",
+        "tema": "El Sabrosón",
+        "video": "https://www.youtube.com/watch?v=aQSYkIL8T18"
+    },
+    {
+        "fecha": "Julio 21 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nelson Pinedo",
+        "tema": "Estas Delirando",
+        "video": "https://www.youtube.com/watch?v=weGzhdT5Byc"
+    },
+    {
+        "fecha": "Julio 21 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Testament",
+        "tema": "Souls of Black",
+        "video": "https://www.youtube.com/watch?v=8YT8XX-640w"
+    },
+    {
+        "fecha": "Julio 21 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Nelson Pinedo",
+        "tema": "El Vaquero",
+        "video": "https://www.youtube.com/watch?v=nTLqdrrsto4"
+    },
+    {
+        "fecha": "Julio 19 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "James Taylor",
+        "tema": "Another Day",
+        "video": "https://www.youtube.com/watch?v=Zux1a8UBG_w"
+    },
+    {
+        "fecha": "Julio 19 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Dean Martin",
+        "tema": "Blue Moon",
+        "video": "https://www.youtube.com/watch?v=955BivrSW80"
+    },
+    {
+        "fecha": "Julio 19 de 2023",
+        "seccion": "La de Martín",
+        "artista": "The Cult",
+        "tema": "Wild Flower",
+        "video": "https://www.youtube.com/watch?v=_NxrphVL7bQ"
+    },
+    {
+        "fecha": "Julio 19 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Dean Martin",
+        "tema": "Volare",
+        "video": "https://www.youtube.com/watch?v=ah637P0_cts"
+    },
+    {
         "fecha": "Julio 18 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Willie Colón y Ruben Blades",
