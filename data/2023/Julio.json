@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Julio 31 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Lucky Daye",
+        "tema": "Ready For Love",
+        "video": "https://www.youtube.com/watch?v=2bCe-lqAR7Y"
+    },
+    {
+        "fecha": "Julio 31 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Hugo Romani",
+        "tema": "Vieja Luna",
+        "video": "https://www.youtube.com/watch?v=OenRhzZPNAE"
+    },
+    {
+        "fecha": "Julio 31 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Airbourne",
+        "tema": "Bone Shaker",
+        "video": "https://www.youtube.com/watch?v=8GVVIZw_7nE"
+    },
+    {
+        "fecha": "Julio 31 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Hugo Romani",
+        "tema": "Sin Ti",
+        "video": "https://www.youtube.com/watch?v=8caPSDss1os"
+    },
+    {
         "fecha": "Julio 28 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Polo Montañez",
