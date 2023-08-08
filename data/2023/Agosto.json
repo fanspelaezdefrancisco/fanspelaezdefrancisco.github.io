@@ -1,5 +1,33 @@
 [
     {
+        "fecha": "Agosto 8 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Camarón De La Isla",
+        "tema": "Por Tangos",
+        "video": "https://www.youtube.com/watch?v=6wgsy2a6N-E"
+    },
+    {
+        "fecha": "Agosto 8 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Olimpo Cárdenas",
+        "tema": "Temeridad",
+        "video": "https://www.youtube.com/watch?v=-5lEHZE21cU"
+    },
+    {
+        "fecha": "Agosto 8 de 2023",
+        "seccion": "La de Martín",
+        "artista": "AC DC",
+        "tema": "Inject The Venom",
+        "video": "https://www.youtube.com/watch?v=CU4EA03ywus"
+    },
+    {
+        "fecha": "Agosto 8 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Olimpo Cárdenas",
+        "tema": "Nuestro Juramento",
+        "video": "https://www.youtube.com/watch?v=R4z73nWrXsI"
+    },
+    {
         "fecha": "Agosto 4 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Paulito FG",
