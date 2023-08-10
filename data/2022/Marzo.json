@@ -2,51 +2,51 @@
     {
         "fecha": "Marzo 1 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Ivan Lins",
+        "tema": "Somos Todos Iquais Nesta Noite",
+        "video": "https://www.youtube.com/watch?v=DbUUC5qncSk"
     },
     {
         "fecha": "Marzo 1 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
-    },
-    {
-        "fecha": "Marzo 1 de 2022",
-        "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
-    },
-    {
-        "fecha": "Marzo 1 de 2022",
-        "seccion": "La de Pelaez",
         "artista": "Gigliola Cinquetti",
         "tema": "No Tengo Edad",
         "video": "https://www.youtube.com/watch?v=1R371I2X1XY"
     },
     {
+        "fecha": "Marzo 1 de 2022",
+        "seccion": "La de Martín",
+        "artista": "Hardbone",
+        "tema": "Take It Off",
+        "video": "https://www.youtube.com/watch?v=uCU0SYXHLL0"
+    },
+    {
+        "fecha": "Marzo 1 de 2022",
+        "seccion": "La de Pelaez",
+        "artista": "Gigliola Cinquetti",
+        "tema": "A Las Puertas Del Cielo",
+        "video": "https://www.youtube.com/watch?v=L5o0_wU5dRw"
+    },
+    {
         "fecha": "Marzo 2 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Willie Colon Y Hector Lavoe",
+        "tema": "Qué Lío",
+        "video": "https://www.youtube.com/watch?v=YtCQr4RQB9U"
     },
     {
         "fecha": "Marzo 2 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Los Trovadores De Cuyo",
+        "tema": "Como Se Adora El Sol",
+        "video": "https://www.youtube.com/watch?v=kg2NcXsriAY"
     },
     {
         "fecha": "Marzo 2 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Pantera",
+        "tema": "Becoming",
+        "video": "https://www.youtube.com/watch?v=NLP0xP2M4S8"
     },
     {
         "fecha": "Marzo 2 de 2022",
@@ -86,23 +86,23 @@
     {
         "fecha": "Marzo 4 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Glenn Monroig",
+        "tema": "Quiero Volver",
+        "video": "https://www.youtube.com/watch?v=hXWPZMP0Z7k"
     },
     {
         "fecha": "Marzo 4 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Bola De Nieve",
+        "tema": "Ya No Me Quieres",
+        "video": "https://www.youtube.com/watch?v=jGsd53kNUVQ"
     },
     {
         "fecha": "Marzo 4 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Slayer",
+        "tema": "SS3",
+        "video": "https://www.youtube.com/watch?v=Vgy7MLlfJnk"
     },
     {
         "fecha": "Marzo 4 de 2022",
@@ -114,23 +114,23 @@
     {
         "fecha": "Marzo 7 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Goyeneche",
+        "tema": "Como Dos Extraños",
+        "video": "https://www.youtube.com/watch?v=S9PiH6O7S60"
     },
     {
         "fecha": "Marzo 7 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "The Platters",
+        "tema": "My Prayer",
+        "video": "https://www.youtube.com/watch?v=DE0UMnrQBD0"
     },
     {
         "fecha": "Marzo 7 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Vio Lence",
+        "tema": "Flesh From Bone",
+        "video": "https://www.youtube.com/watch?v=TjwfU5C1pwg"
     },
     {
         "fecha": "Marzo 7 de 2022",
@@ -142,23 +142,23 @@
     {
         "fecha": "Marzo 8 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Juanjo Dominguez y Goyeneche",
+        "tema": "Pedacito De Cielo",
+        "video": "https://www.youtube.com/watch?v=h4VUWOWgUlU"
     },
     {
         "fecha": "Marzo 8 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Caridad Cuervo",
+        "tema": "La Rumba Es Mejor",
+        "video": "https://www.youtube.com/watch?v=3aE5Tiyji9o"
     },
     {
         "fecha": "Marzo 8 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Buckcherry",
+        "tema": "Closer",
+        "video": "https://www.youtube.com/watch?v=6OnBu8f88-k"
     },
     {
         "fecha": "Marzo 8 de 2022",
@@ -170,23 +170,23 @@
     {
         "fecha": "Marzo 9 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Ed Sheeran",
+        "tema": "Castle On The Hill",
+        "video": "https://www.youtube.com/watch?v=K0ibBPhiaG0"
     },
     {
         "fecha": "Marzo 9 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Domingo Lugo",
+        "tema": "Mis Delirios",
+        "video": "https://www.youtube.com/watch?v=u2ree6G2UyY"
     },
     {
         "fecha": "Marzo 9 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Ratt",
+        "tema": "Heads I Win, Tails You Lose",
+        "video": "https://www.youtube.com/watch?v=gjIgY1ZQusk"
     },
     {
         "fecha": "Marzo 9 de 2022",
@@ -198,23 +198,23 @@
     {
         "fecha": "Marzo 10 de 2022",
         "seccion": "La otra de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Dale Lo Que Lleva",
+        "tema": "Maykel Blanco y Su Salsa Mayor Y Maykel Fonts",
+        "video": "https://www.youtube.com/watch?v=llIZRZXmZ8A"
     },
     {
         "fecha": "Marzo 10 de 2022",
         "seccion": "La otra de Pelaez",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "Antonio Prieto",
+        "tema": "Son Rumores",
+        "video": "https://www.youtube.com/watch?v=xZ-XjGMt9vs"
     },
     {
         "fecha": "Marzo 10 de 2022",
         "seccion": "La de Martín",
-        "artista": "",
-        "tema": "",
-        "video": ""
+        "artista": "The Pixies",
+        "tema": "Oona",
+        "video": "https://www.youtube.com/watch?v=WOW3M7FHxVM"
     },
     {
         "fecha": "Marzo 10 de 2022",
