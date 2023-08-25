@@ -1,5 +1,341 @@
 [
     {
+        "fecha": "Agosto 25 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Willie Rosario",
+        "tema": "El Callejero",
+        "video": "https://www.youtube.com/watch?v=cWq6WmBULQc"
+    },
+    {
+        "fecha": "Agosto 25 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Cortijo Y Su Combo Con Ismael Rivera",
+        "tema": "Quitate De La Vía Perico",
+        "video": "https://www.youtube.com/watch?v=Y0Omt6wn0XU"
+    },
+    {
+        "fecha": "Agosto 25 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Pantera",
+        "tema": "Mouth Of War",
+        "video": "https://www.youtube.com/watch?v=a3JSbOt7CLo"
+    },
+    {
+        "fecha": "Agosto 25 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Cortijo Y Su Combo Con Ismael Rivera",
+        "tema": "Perfume De Rosas",
+        "video": "https://www.youtube.com/watch?v=y-pcwbsewz0"
+    },
+    {
+        "fecha": "Agosto 24 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Christopher Cross",
+        "tema": "Think Of Laura",
+        "video": "https://www.youtube.com/watch?v=4Xvg-dNxT-Y"
+    },
+    {
+        "fecha": "Agosto 24 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Irma Dorantes",
+        "tema": "Mis Noches Sin Tí",
+        "video": "https://www.youtube.com/watch?v=ynPt7FC3Go0"
+    },
+    {
+        "fecha": "Agosto 24 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Slipknot",
+        "tema": "Psychosocial",
+        "video": "https://www.youtube.com/watch?v=5abamRO41fE"
+    },
+    {
+        "fecha": "Agosto 24 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Irma Dorantes",
+        "tema": "Cuando No Sé De Tí",
+        "video": "https://www.youtube.com/watch?v=_wwODeVZq8g"
+    },
+    {
+        "fecha": "Agosto 23 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Milton Nascimento",
+        "tema": "Biromes Y Servilletas",
+        "video": "https://www.youtube.com/watch?v=qW2CerKrCp8"
+    },
+    {
+        "fecha": "Agosto 23 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Abba",
+        "tema": "Estoy Soñando",
+        "video": "https://www.youtube.com/watch?v=jlC3otqX8bc"
+    },
+    {
+        "fecha": "Agosto 23 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Death Angel",
+        "tema": "Stop",
+        "video": "https://www.youtube.com/watch?v=ZYg6erOqouA"
+    },
+    {
+        "fecha": "Agosto 23 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Abba",
+        "tema": "Chiquitita",
+        "video": "https://www.youtube.com/watch?v=p4QqMKe3rwY"
+    },
+    {
+        "fecha": "Agosto 22 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Elis Regina",
+        "tema": "Só Tinha Que Ser Com Você",
+        "video": "https://www.youtube.com/watch?v=QfMd4qhVkYo"
+    },
+    {
+        "fecha": "Agosto 22 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Alberto Cortez",
+        "tema": "Mi Arbol Y Yo",
+        "video": "https://www.youtube.com/watch?v=lN9PbuYMjt8"
+    },
+    {
+        "fecha": "Agosto 22 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Nuclear Assault",
+        "tema": "Critical Mass",
+        "video": "https://www.youtube.com/watch?v=aWFhlYfqj4Q"
+    },
+    {
+        "fecha": "Agosto 22 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Alberto Cortez",
+        "tema": "En un rincón del alma",
+        "video": "https://www.youtube.com/watch?v=IsJLQAHgxL4"
+    },
+    {
+        "fecha": "Agosto 18 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Silva Y Guerra",
+        "tema": "No Te Olvidaré",
+        "video": "https://www.youtube.com/watch?v=vLkxWuca_Zo"
+    },
+    {
+        "fecha": "Agosto 18 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Orquesta Original de Manzanillo",
+        "tema": "El Cinturon del Taxi",
+        "video": "https://www.youtube.com/watch?v=HCujroWb5Yk"
+    },
+    {
+        "fecha": "Agosto 18 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Death Angel",
+        "tema": "Voracious Souls",
+        "video": "https://www.youtube.com/watch?v=vel0SwC90Og"
+    },
+    {
+        "fecha": "Agosto 18 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Orquesta Original de Manzanillo",
+        "tema": "Quien Ha Visto por Ahi Mi Sombrero de Yarey",
+        "video": "https://www.youtube.com/watch?v=PhKRW100NPo"
+    },
+    {
+        "fecha": "Agosto 17 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Marvin Santiago",
+        "tema": "El Hombre Increible",
+        "video": "https://www.youtube.com/watch?v=kQBnEb_trc8"
+    },
+    {
+        "fecha": "Agosto 17 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Felipe Pirela",
+        "tema": "El Malquerido",
+        "video": "https://www.youtube.com/watch?v=-HEll1ib8GU"
+    },
+    {
+        "fecha": "Agosto 17 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Iron Maiden",
+        "tema": "Revelations",
+        "video": "https://www.youtube.com/watch?v=ClUB7_8xjEw"
+    },
+    {
+        "fecha": "Agosto 17 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Felipe Pirela",
+        "tema": "Sombras Nada Más",
+        "video": "https://www.youtube.com/watch?v=Ld2cDBlp7Lk"
+    },
+    {
+        "fecha": "Agosto 16 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Roberto Roena y Su Apollo Sound",
+        "tema": "Si Yo Pudiera",
+        "video": "https://www.youtube.com/watch?v=XqKAXKxDFhk"
+    },
+    {
+        "fecha": "Agosto 16 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nano Molina con El Trio Grancolombiano",
+        "tema": "Cicatrices",
+        "video": "https://www.youtube.com/watch?v=fDBasGVsZ0k"
+    },
+    {
+        "fecha": "Agosto 16 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Sammy Hagar",
+        "tema": "Heavy Metal",
+        "video": "https://www.youtube.com/watch?v=xpBqZjwE1Oc"
+    },
+    {
+        "fecha": "Agosto 16 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Nano Molina con El Trio Grancolombiano",
+        "tema": "Solitario",
+        "video": "https://www.youtube.com/watch?v=GZT6CirfZU0"
+    },
+    {
+        "fecha": "Agosto 15 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Polyphia",
+        "tema": "G O A T",
+        "video": "https://www.youtube.com/watch?v=9_gkpYORQLU"
+    },
+    {
+        "fecha": "Agosto 15 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Willie Colon Y Hector Lavoe",
+        "tema": "Eso Se Baila Así",
+        "video": "https://www.youtube.com/watch?v=xwOdPM0y-Mc"
+    },
+    {
+        "fecha": "Agosto 15 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Eva Garza",
+        "tema": "Celosa",
+        "video": "https://www.youtube.com/watch?v=9WDHVnYx99g"
+    },
+    {
+        "fecha": "Agosto 15 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Eva Garza",
+        "tema": "Sabor De Engaño",
+        "video": "https://www.youtube.com/watch?v=vXVU3jEpuNA"
+    },
+    {
+        "fecha": "Agosto 14 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Cheo Feliciano",
+        "tema": "El Ratón",
+        "video": "https://www.youtube.com/watch?v=dYeXQx9GSH4"
+    },
+    {
+        "fecha": "Agosto 14 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nestor Mesta Chayres",
+        "tema": "Silverio",
+        "video": "https://www.youtube.com/watch?v=oV8G1mVzoCY"
+    },
+    {
+        "fecha": "Agosto 14 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Black Sabbath",
+        "tema": "The Mob Rules",
+        "video": "https://www.youtube.com/watch?v=8MBVgvCdM0E"
+    },
+    {
+        "fecha": "Agosto 14 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Nestor Mesta Chayres",
+        "tema": "Españolerías",
+        "video": "https://www.youtube.com/watch?v=b9E7GJMf-j4"
+    },
+    {
+        "fecha": "Agosto 11 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Cheo Feliciano",
+        "tema": "El Ratón",
+        "video": "https://www.youtube.com/watch?v=ygC21anaSwA"
+    },
+    {
+        "fecha": "Agosto 11 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Arsenio Rodriguez",
+        "tema": "Rumba Guajira",
+        "video": "https://www.youtube.com/watch?v=K76WO_ib4hk"
+    },
+    {
+        "fecha": "Agosto 11 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Exodus",
+        "tema": "Throwing Down",
+        "video": "https://www.youtube.com/watch?v=yNdBIpzz7Rg&t=1s"
+    },
+    {
+        "fecha": "Agosto 11 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Arsenio Rodriguez",
+        "tema": "No Me Llores Mas",
+        "video": "https://www.youtube.com/watch?v=kVvlvGPLYKE"
+    },
+    {
+        "fecha": "Agosto 10 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Hector Lavoe",
+        "tema": "El Rey De La Puntualidad",
+        "video": "https://www.youtube.com/watch?v=LinezXks_YQ"
+    },
+    {
+        "fecha": "Agosto 10 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Sandro",
+        "tema": "Rosa Rosa",
+        "video": "https://www.youtube.com/watch?v=NeGN_cs9yfE"
+    },
+    {
+        "fecha": "Agosto 10 de 2023",
+        "seccion": "La de Martín",
+        "artista": "System Of A Down",
+        "tema": "Revenga",
+        "video": "https://www.youtube.com/watch?v=qOl7m52TQk8"
+    },
+    {
+        "fecha": "Agosto 10 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Sandro",
+        "tema": "La Vida Sigue Igual",
+        "video": "https://www.youtube.com/watch?v=lQ3I6k2PXSM"
+    },
+    {
+        "fecha": "Agosto 9 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Son 14",
+        "tema": "Son Para Un Sonero",
+        "video": "https://www.youtube.com/watch?v=ODVcA1r1KwU"
+    },
+    {
+        "fecha": "Agosto 9 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "The Carpenters",
+        "tema": "Close To You",
+        "video": "https://www.youtube.com/watch?v=EtOtdYiLi0I"
+    },
+    {
+        "fecha": "Agosto 9 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Shadows Follow",
+        "video": "https://www.youtube.com/watch?v=Ui1OBxlWvvE"
+    },
+    {
+        "fecha": "Agosto 9 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "The Carpenters",
+        "tema": "Top Of The World",
+        "video": "https://www.youtube.com/watch?v=6wgsy2a6N-E"
+    },
+    {
         "fecha": "Agosto 8 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Camarón De La Isla",
