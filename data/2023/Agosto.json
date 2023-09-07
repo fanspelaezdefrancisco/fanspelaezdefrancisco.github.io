@@ -1,5 +1,117 @@
 [
     {
+        "fecha": "Agosto 31 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Junny",
+        "tema": "By My Side",
+        "video": "https://www.youtube.com/watch?v=PqWq6dORitQ"
+    },
+    {
+        "fecha": "Agosto 31 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Helenita Vargas",
+        "tema": "Propiedad Privada",
+        "video": "https://www.youtube.com/watch?v=vahzl9a33M8"
+    },
+    {
+        "fecha": "Agosto 31 de 2023",
+        "seccion": "La de Martín",
+        "artista": "KISS",
+        "tema": "Lonely Is The Hunter",
+        "video": "https://www.youtube.com/watch?v=gTMlSDRZdVs"
+    },
+    {
+        "fecha": "Agosto 31 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Helenita Vargas",
+        "tema": "Señor",
+        "video": "https://www.youtube.com/watch?v=rw3mTspZuiU"
+    },
+    {
+        "fecha": "Agosto 30 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "John Mayer",
+        "tema": "Free Fallin",
+        "video": "https://www.youtube.com/watch?v=20Ov0cDPZy8"
+    },
+    {
+        "fecha": "Agosto 30 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Hermanos Martinez Gil",
+        "tema": "Mar Y Cielo",
+        "video": "https://www.youtube.com/watch?v=i31EOLR9ub0"
+    },
+    {
+        "fecha": "Agosto 30 de 2023",
+        "seccion": "La de Martín",
+        "artista": "2 Minutos",
+        "tema": "Melodía De Barrio",
+        "video": "https://www.youtube.com/watch?v=5aYGFk4TKwI"
+    },
+    {
+        "fecha": "Agosto 30 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Los Hermanos Martinez Gil",
+        "tema": "Chacha Linda",
+        "video": "https://www.youtube.com/watch?v=JyK77-NiQP8"
+    },
+    {
+        "fecha": "Agosto 29 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Cafe Tacuba",
+        "tema": "Avientame",
+        "video": "https://www.youtube.com/watch?v=MDWe9-6q0Qo"
+    },
+    {
+        "fecha": "Agosto 29 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Cesar Costa",
+        "tema": "No Existe El Amor",
+        "video": "https://www.youtube.com/watch?v=Jw2u9UhYggA"
+    },
+    {
+        "fecha": "Agosto 29 de 2023",
+        "seccion": "La de Martín",
+        "artista": "AC DC",
+        "tema": "Big Gun",
+        "video": "https://www.youtube.com/watch?v=nLsXJitaiVo"
+    },
+    {
+        "fecha": "Agosto 29 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Cesar Costa",
+        "tema": "Diana",
+        "video": "https://www.youtube.com/watch?v=RrY0fHV85ck"
+    },
+    {
+        "fecha": "Agosto 28 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Prince And The Revolution",
+        "tema": "Raspberry Beret",
+        "video": "https://www.youtube.com/watch?v=l7vRSu_wsNc"
+    },
+    {
+        "fecha": "Agosto 28 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Alejandro Algara",
+        "tema": "Farolito",
+        "video": "https://www.youtube.com/watch?v=kc6nkI-CTJQ"
+    },
+    {
+        "fecha": "Agosto 28 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Limp Bizkit",
+        "tema": "Gold Cobra",
+        "video": "https://www.youtube.com/watch?v=_i_qxQztHRI"
+    },
+    {
+        "fecha": "Agosto 28 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Alejandro Algara",
+        "tema": "Solamente Una Vez",
+        "video": "https://www.youtube.com/watch?v=I0MMaxO_P5M"
+    },
+    {
         "fecha": "Agosto 25 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Willie Rosario",

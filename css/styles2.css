@@ -54,7 +54,32 @@ body {
 
 .search_input {
     border-radius: 7px;
-    padding-left: 5px;
+    width: 250px;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    background-color: #ffeeba;
+    color: #525252;
+    border: none;
+    transition: width 0.5s;
+}
+
+/* .search_input:hover {
+    width: 400px;
+} */
+
+.search_input:focus {
+    width: 400px;
+}
+
+.searchButton {
+    border-radius: 7px;
+    border: none;
+    padding: 10px 50px 10px 50px;
+    background-color: #fde185;
+}
+
+.searchButton:hover {
+    background-color: #ffd341;
 }
 
 /* .search_input:focus {
