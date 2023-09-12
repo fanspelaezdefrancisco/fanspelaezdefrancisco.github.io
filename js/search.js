@@ -1,9 +1,12 @@
 
-searchMusic.addEventListener("click", async () => {
+//searchMusic.addEventListener("click", async () => {
+searchMusic.addEventListener("submit", async (e) => {
+
+    e.preventDefault()
     
     console.log(search_artista.value)
 
-    json_read.innerHTML = ``
+    json_read.innerHTML = `<div class="text-center"><div class="spinner-border text-warning" role="status"><span class="visually-hidden">Loading...</span></div></div>`
 
     let elementosEncontrados = []
 
@@ -59,10 +62,12 @@ searchMusic.addEventListener("click", async () => {
 
     if (elementosEncontrados.length) {
 
+        json_read.innerHTML = ``
+
         for (let i = 0; i < elementosEncontrados.length; i++) {
             const element = elementosEncontrados[i];
             const videoYTCode = elementosEncontrados[i]['video'].split("v=");
-            
+
             json_read.innerHTML += 
     
             `<div class='row'>

@@ -45,27 +45,30 @@
         <!-- <img class="mt-5 banner" src="img/banner.png" alt="Banner" width="100%"> -->
         <div class="alert alert-secondary mx-5 mt-5 text-center" role="alert">Busque si una canción ya fue tocada en el programa<br><br>Ingrese Artista y Tema<br>(Puede buscar solamente Artista o solamente Tema)<br>⬇️</div>
 
-        <div class="row justify-content-center mt-5 text-center">
-            <div class="col-sm-12 col-md-8">
-                <label for="search_artista">Artista</label>
-                <br>
-                <input class="search_input" type="text" name="search_artista" id="search_artista">
+        <form action="" id="searchMusic">
+            <div class="row justify-content-center mt-5 text-center">
+                <div class="col-sm-12 col-md-8">
+                    <label for="search_artista">Artista</label>
+                    <br>
+                    <input class="search_input" type="text" name="search_artista" id="search_artista">
+                </div>
             </div>
-        </div>
 
-        <div class="row justify-content-center mt-5 text-center">
-            <div class="col-sm-12 col-md-8">
-                <label for="search_tema">Canción</label>
-                <br>
-                <input class="search_input" type="text" name="search_tema" id="search_tema">
+            <div class="row justify-content-center mt-5 text-center">
+                <div class="col-sm-12 col-md-8">
+                    <label for="search_tema">Canción</label>
+                    <br>
+                    <input class="search_input" type="text" name="search_tema" id="search_tema">
+                </div>
             </div>
-        </div>
 
-        <div class="row justify-content-center my-5 text-center">
-            <div class="col-sm-12 col-md-8">
-                <button class="searchButton" id="searchMusic">Buscar</button>
+            <div class="row justify-content-center my-5 text-center">
+                <div class="col-sm-12 col-md-8">
+                    <!-- <button class="searchButton" id="searchMusic">Buscar</button> -->
+                    <button type="submit" class="searchButton">Buscar</button>
+                </div>
             </div>
-        </div>
+        </form>
 
         <div id="json_read" class="mt-5"></div>
 
