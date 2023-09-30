@@ -1,5 +1,453 @@
 [
     {
+        "fecha": "Septiembre 29 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Prince",
+        "tema": "Adore",
+        "video": "https://www.youtube.com/watch?v=uIgQ-tI3pbU"
+    },
+    {
+        "fecha": "Septiembre 29 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Roberto Roena y Su Apollo Sound",
+        "tema": "Guaguancó Del Adios",
+        "video": "https://www.youtube.com/watch?v=F1oe_nG-3xQ"
+    },
+    {
+        "fecha": "Septiembre 29 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Exodus",
+        "tema": "The Years Of Death And Dying",
+        "video": "https://www.youtube.com/watch?v=aL8RvpLGZNM"
+    },
+    {
+        "fecha": "Septiembre 29 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Roberto Roena",
+        "tema": "Como Te Hago Entender",
+        "video": "https://www.youtube.com/watch?v=rNAID3ZKgvE"
+    },
+    {
+        "fecha": "Septiembre 28 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "The Weeknd",
+        "tema": "Wasted Times",
+        "video": "https://www.youtube.com/watch?v=R0rKB_bsUNg"
+    },
+    {
+        "fecha": "Septiembre 28 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "La Sonora Santanera",
+        "tema": "Donde Estas Yolanda",
+        "video": "https://www.youtube.com/watch?v=8l--gyA1bpw"
+    },
+    {
+        "fecha": "Septiembre 28 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Anthrax",
+        "tema": "TNT",
+        "video": "https://www.youtube.com/watch?v=bAHHJHXm6Xs"
+    },
+    {
+        "fecha": "Septiembre 28 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "La Sonora Santanera",
+        "tema": "Bonita y Mentirosa",
+        "video": "https://www.youtube.com/watch?v=mnfDhJrMtgc"
+    },
+    {
+        "fecha": "Septiembre 27 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Calvin Harris",
+        "tema": "Feels",
+        "video": "https://www.youtube.com/watch?v=ozv4q2ov3Mk"
+    },
+    {
+        "fecha": "Septiembre 27 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Tom Jones",
+        "tema": "Release Me",
+        "video": "https://www.youtube.com/watch?v=QjKQaLIixzI"
+    },
+    {
+        "fecha": "Septiembre 27 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Evile",
+        "tema": "What You Become",
+        "video": "https://www.youtube.com/watch?v=uL24pAc8dNU"
+    },
+    {
+        "fecha": "Septiembre 27 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Tom Jones",
+        "tema": "Delilah",
+        "video": "https://www.youtube.com/watch?v=Qvo5SeAwz88&t=2s"
+    },
+    {
+        "fecha": "Septiembre 26 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Maria Bethânia",
+        "tema": "Mel",
+        "video": "https://www.youtube.com/watch?v=kVDC5tSoIkY"
+    },
+    {
+        "fecha": "Septiembre 26 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Embajadores",
+        "tema": "Alma Corazon Y Vida",
+        "video": "https://www.youtube.com/watch?v=Gxe95mJ0Qbs"
+    },
+    {
+        "fecha": "Septiembre 26 de 2023",
+        "seccion": "La de Martín",
+        "artista": "KISS",
+        "tema": "She",
+        "video": "https://www.youtube.com/watch?v=Z3iV--DenCw"
+    },
+    {
+        "fecha": "Septiembre 26 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Los Embajadores",
+        "tema": "A Unos Ojos",
+        "video": "https://www.youtube.com/watch?v=66UlL8kTnDA"
+    },
+    {
+        "fecha": "Septiembre 25 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Allen Stone",
+        "tema": "Sunny Days",
+        "video": "https://www.youtube.com/watch?v=NwvJYfe8jPw"
+    },
+    {
+        "fecha": "Septiembre 25 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Antonio Badú",
+        "tema": "As De Corazones",
+        "video": "https://www.youtube.com/watch?v=Onz44RenclM"
+    },
+    {
+        "fecha": "Septiembre 25 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Guns N Roses",
+        "tema": "Bad Obsession",
+        "video": "https://www.youtube.com/watch?v=-3tFB6k64js"
+    },
+    {
+        "fecha": "Septiembre 25 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Antonio Badú",
+        "tema": "Hipocrita",
+        "video": "https://www.youtube.com/watch?v=LedOg24rOJU"
+    },
+    {
+        "fecha": "Septiembre 22 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Allen Stone",
+        "tema": "The Bed I Made",
+        "video": "https://www.youtube.com/watch?v=Ub7IcarC4TU"
+    },
+    {
+        "fecha": "Septiembre 22 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Orquesta Aragón",
+        "tema": "Sabrosona",
+        "video": "https://www.youtube.com/watch?v=BzxUGg2emxo"
+    },
+    {
+        "fecha": "Septiembre 22 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Vio Lence",
+        "tema": "Phobophobia",
+        "video": "https://www.youtube.com/watch?v=xDxyohrauV4"
+    },
+    {
+        "fecha": "Septiembre 22 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Orquesta Aragón",
+        "tema": "Quiéreme Siempre",
+        "video": "https://www.youtube.com/watch?v=BvBZyz0wwHo"
+    },
+    {
+        "fecha": "Septiembre 21 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Paulito FG",
+        "tema": "Con La Conciencia Tranquila",
+        "video": "https://www.youtube.com/watch?v=3dqERorUuMo"
+    },
+    {
+        "fecha": "Septiembre 21 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Alberto Podesta",
+        "tema": "Yo Soy El Tango",
+        "video": "https://www.youtube.com/watch?v=HA_iEi16_C8"
+    },
+    {
+        "fecha": "Septiembre 21 de 2023",
+        "seccion": "La de Martín",
+        "artista": "EXODUS",
+        "tema": "Throwing Down",
+        "video": "https://www.youtube.com/watch?v=yNdBIpzz7Rg"
+    },
+    {
+        "fecha": "Septiembre 21 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Alberto Podestá",
+        "tema": "Percal",
+        "video": "https://www.youtube.com/watch?v=lYuNCT6wiHI"
+    },
+    {
+        "fecha": "Septiembre 20 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Guaco",
+        "tema": "Todo Quedó quedó",
+        "video": "https://www.youtube.com/watch?v=tkno-Xe5Klk"
+    },
+    {
+        "fecha": "Septiembre 20 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Oscar Golden",
+        "tema": "Boca De Chicle",
+        "video": "https://www.youtube.com/watch?v=MiT8xaeI9cY"
+    },
+    {
+        "fecha": "Septiembre 20 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Ghost",
+        "tema": "Faith",
+        "video": "https://www.youtube.com/watch?v=k72ytAFMCI0"
+    },
+    {
+        "fecha": "Septiembre 20 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Oscar Golden",
+        "tema": "Zapatos Pom Pom",
+        "video": "https://www.youtube.com/watch?v=uFD21EgZN6U"
+    },
+    {
+        "fecha": "Septiembre 19 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Héctor Lavoe",
+        "tema": "Triste Y Vacia",
+        "video": "https://www.youtube.com/watch?v=Oq0r9j9WX5s"
+    },
+    {
+        "fecha": "Septiembre 19 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Roberto Jordán",
+        "tema": "No Se Ha Dado Cuenta",
+        "video": "https://www.youtube.com/watch?v=LPVCfGzkiHQ"
+    },
+    {
+        "fecha": "Septiembre 19 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "If Darkness Had A Son",
+        "video": "https://www.youtube.com/watch?v=x_t53a5Ons0"
+    },
+    {
+        "fecha": "Septiembre 19 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Roberto Jordán",
+        "tema": "Amor de estudiante",
+        "video": "https://www.youtube.com/watch?v=uoW2MOPKSkA"
+    },
+    {
+        "fecha": "Septiembre 18 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Ed Motta",
+        "tema": "Piquenique",
+        "video": "https://www.youtube.com/watch?v=Ss-01iAdUs4"
+    },
+    {
+        "fecha": "Septiembre 18 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Tomas de San Julian",
+        "tema": "La Luna Y El Toro",
+        "video": "https://www.youtube.com/watch?v=K1hJ8fmKsI4"
+    },
+    {
+        "fecha": "Septiembre 18 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Judas Priest",
+        "tema": "Living After Midnight",
+        "video": "https://www.youtube.com/watch?v=V87quS106N4"
+    },
+    {
+        "fecha": "Septiembre 18 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Tomas de San Julian",
+        "tema": "Es Mi Niña Bonita",
+        "video": "https://www.youtube.com/watch?v=vMlQrXFxyAk"
+    },
+    {
+        "fecha": "Septiembre 15 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Joe Cuba",
+        "tema": "What A Baby",
+        "video": "https://www.youtube.com/watch?v=_NLfozUtlF4"
+    },
+    {
+        "fecha": "Septiembre 15 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Lucho Bermudez",
+        "tema": "Tolú",
+        "video": "https://www.youtube.com/watch?v=nYdZY4WLMgc"
+    },
+    {
+        "fecha": "Septiembre 15 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Rage Against The Machine",
+        "tema": "Bombtrack",
+        "video": "https://www.youtube.com/watch?v=MUaL1FnotRQ"
+    },
+    {
+        "fecha": "Septiembre 15 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Lucho Bermudez y Su Orquesta",
+        "tema": "Carmen De Bolivar",
+        "video": "https://www.youtube.com/watch?v=tJ1EOK2N5nY"
+    },
+    {
+        "fecha": "Septiembre 14 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Chico Buarque",
+        "tema": "Feijoada Completa",
+        "video": "https://www.youtube.com/watch?v=NQPliztYhK0"
+    },
+    {
+        "fecha": "Septiembre 14 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Quinteto Dalmar",
+        "tema": "Prende La Vela",
+        "video": "https://www.youtube.com/watch?v=7Mv_AJch8o0"
+    },
+    {
+        "fecha": "Septiembre 14 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Sad But True",
+        "video": "https://www.youtube.com/watch?v=A8MO7fkZc5o"
+    },
+    {
+        "fecha": "Septiembre 14 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Quinteto Dalmar",
+        "tema": "El Cuchipe",
+        "video": "https://www.youtube.com/watch?v=EwFny2is1IM"
+    },
+    {
+        "fecha": "Septiembre 13 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Alcione",
+        "tema": "Ou Ela Ou Eu",
+        "video": "https://www.youtube.com/watch?v=pqZXj_F3L9M"
+    },
+    {
+        "fecha": "Septiembre 13 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Massiel",
+        "tema": "Otra Mujer",
+        "video": "https://www.youtube.com/watch?v=gtoeQx3PCBc"
+    },
+    {
+        "fecha": "Septiembre 13 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Ozzy Osbourne",
+        "tema": "The Almighty Dollar",
+        "video": "https://www.youtube.com/watch?v=b75Fz8CqAW4"
+    },
+    {
+        "fecha": "Septiembre 13 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Massiel",
+        "tema": "Brindaremos Por Él",
+        "video": "https://www.youtube.com/watch?v=Au_JO6kBg9M"
+    },
+    {
+        "fecha": "Septiembre 12 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Djavan",
+        "tema": "Azul",
+        "video": "https://www.youtube.com/watch?v=MrMe9q3cOVU"
+    },
+    {
+        "fecha": "Septiembre 12 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Pasteles Verdes",
+        "tema": "Ya Es Muy Tarde",
+        "video": "https://www.youtube.com/watch?v=FHOJHLJ1vz4"
+    },
+    {
+        "fecha": "Septiembre 12 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Megadeth",
+        "tema": "Peace Sells",
+        "video": "https://www.youtube.com/watch?v=LVhJy-CR64Q"
+    },
+    {
+        "fecha": "Septiembre 12 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Los Pasteles Verdes",
+        "tema": "Hipocresía",
+        "video": "https://www.youtube.com/watch?v=9RShTf-FBBk"
+    },
+    {
+        "fecha": "Septiembre 11 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Pete Rodríguez",
+        "tema": "El Hueso",
+        "video": "https://www.youtube.com/watch?v=kt8LWXihBi0"
+    },
+    {
+        "fecha": "Septiembre 11 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nat King Cole",
+        "tema": "Adelita",
+        "video": "https://www.youtube.com/watch?v=AbCFtXrpVaA"
+    },
+    {
+        "fecha": "Septiembre 11 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Sacred Reich",
+        "tema": "Death Squad",
+        "video": "https://www.youtube.com/watch?v=hnsFDKYWF2g"
+    },
+    {
+        "fecha": "Septiembre 11 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Nat King Cole",
+        "tema": "Ansiedad",
+        "video": "https://www.youtube.com/watch?v=mh00dH0bdS8"
+    },
+    {
+        "fecha": "Septiembre 8 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Nahuel Pennisi",
+        "tema": "Todo Cambia",
+        "video": "https://www.youtube.com/watch?v=IsJn63604S0"
+    },
+    {
+        "fecha": "Septiembre 8 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Frankie Ruiz",
+        "tema": "Deseandote",
+        "video": "https://www.youtube.com/watch?v=j27W3Tsv2YU"
+    },
+    {
+        "fecha": "Septiembre 8 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Evile",
+        "tema": "Cult",
+        "video": "https://www.youtube.com/watch?v=s0P2Gr5Ucfk"
+    },
+    {
+        "fecha": "Septiembre 8 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Frankie Ruiz",
+        "tema": "Desnúdate Mujer",
+        "video": "https://www.youtube.com/watch?v=aC8fFb02bMw"
+    },
+    {
         "fecha": "Septiembre 7 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Juan Luis Guerra",
