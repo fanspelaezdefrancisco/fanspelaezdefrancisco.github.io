@@ -1,5 +1,145 @@
 [
     {
+        "fecha": "Octubre 17 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Eric Clapton",
+        "tema": "Signe",
+        "video": "https://www.youtube.com/watch?v=8mhbCa2RGRs"
+    },
+    {
+        "fecha": "Octubre 17 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "El Combo De Las Estrellas",
+        "tema": "Te Lo Juro Yo",
+        "video": "https://www.youtube.com/watch?v=fS0fWj-H8Q8"
+    },
+    {
+        "fecha": "Octubre 17 de 2023",
+        "seccion": "La de Martín",
+        "artista": "AC DC",
+        "tema": "What Do You Do For Money Honey",
+        "video": "https://www.youtube.com/watch?v=7iF26wKF-_M"
+    },
+    {
+        "fecha": "Octubre 17 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "El Combo De Las Estrellas",
+        "tema": "Plegaria Vallenata",
+        "video": "https://www.youtube.com/watch?v=YoMPSP4Zgzs"
+    },
+    {
+        "fecha": "Octubre 16 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Incognito",
+        "tema": "One Step",
+        "video": "https://www.youtube.com/watch?v=vYxJxbJwdwE"
+    },
+    {
+        "fecha": "Octubre 16 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Johnny Tedesco",
+        "tema": "Mi Alma Lloró",
+        "video": "https://www.youtube.com/watch?v=rmGhEygHtxk"
+    },
+    {
+        "fecha": "Octubre 16 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Electron",
+        "tema": "Wake Up",
+        "video": "https://www.youtube.com/watch?v=-edH6-AQf1c"
+    },
+    {
+        "fecha": "Octubre 16 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Johnny Tedesco",
+        "tema": "Rock del Ton Ton",
+        "video": "https://www.youtube.com/watch?v=uLBxLfsie3A"
+    },
+    {
+        "fecha": "Octubre 15 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Stevie Wonder",
+        "tema": "Dont You Worry Bout A Thing",
+        "video": "https://www.youtube.com/watch?v=pq7JEJEPM9g"
+    },
+    {
+        "fecha": "Octubre 15 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Luis Gabriel",
+        "tema": "Así Es Mi Pueblo",
+        "video": "https://www.youtube.com/watch?v=tlBU6gn6TaY"
+    },
+    {
+        "fecha": "Octubre 15 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Pantera",
+        "tema": "Becoming",
+        "video": "https://www.youtube.com/watch?v=NLP0xP2M4S8"
+    },
+    {
+        "fecha": "Octubre 15 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Carmenza Duque",
+        "tema": "Luna Roja",
+        "video": "https://www.youtube.com/watch?v=D4yQ1WhIAlA"
+    },
+    {
+        "fecha": "Octubre 14 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Elis Regina",
+        "tema": "Sai Dessa",
+        "video": "https://www.youtube.com/watch?v=5pz6m2DzR9g"
+    },
+    {
+        "fecha": "Octubre 14 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "El Indio Araucano",
+        "tema": "Perdoname Otravez",
+        "video": "https://www.youtube.com/watch?v=0EOLESxpvLI"
+    },
+    {
+        "fecha": "Octubre 14 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Accept",
+        "tema": "Do It",
+        "video": "https://www.youtube.com/watch?v=ZXqVjQIBso8"
+    },
+    {
+        "fecha": "Octubre 14 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "El Indio Araucano",
+        "tema": "Cuando Muere La Noche",
+        "video": "https://www.youtube.com/watch?v=wusYmRYBKIU"
+    },
+    {
+        "fecha": "Octubre 10 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Tony Vega",
+        "tema": "Me Gusta Que Seas Celosa",
+        "video": "https://www.youtube.com/watch?v=YlwfqMteX10"
+    },
+    {
+        "fecha": "Octubre 10 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Orquesta Casino de la Playa",
+        "tema": "Cachita",
+        "video": "https://www.youtube.com/watch?v=ZPKuYRlIYUQ"
+    },
+    {
+        "fecha": "Octubre 10 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Suicidal Tendencies",
+        "tema": "Send me your Money",
+        "video": "https://www.youtube.com/watch?v=2ESWRtaHNU8"
+    },
+    {
+        "fecha": "Octubre 10 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Orquesta Casino de la Playa",
+        "tema": "La Cachimba de San Juan",
+        "video": "https://www.youtube.com/watch?v=gGqhHKYIz0g"
+    },
+    {
         "fecha": "Octubre 9 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Joe Cuba",
