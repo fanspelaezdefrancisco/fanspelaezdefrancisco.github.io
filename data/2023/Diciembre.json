@@ -1,0 +1,422 @@
+[
+    {
+        "fecha": "Diciembre 22 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "N/A",
+        "tema": "N/A",
+        "video": "N/A"
+    },
+    {
+        "fecha": "Diciembre 22 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nelson y Sus Estrellas",
+        "tema": "Pascuas de Navidad",
+        "video": "https://www.youtube.com/watch?v=BzkDz8oIj6o"
+    },
+    {
+        "fecha": "Diciembre 22 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Overkill",
+        "tema": "Never Say Never",
+        "video": "https://www.youtube.com/watch?v=TtyEUtljgt0"
+    },
+    {
+        "fecha": "Diciembre 22 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "El Gran Combo de Puerto Rico",
+        "tema": "Asalto Navideño",
+        "video": "https://www.youtube.com/watch?v=ghtCWWajC8g"
+    },
+    {
+        "fecha": "Diciembre 21 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Cheo Feliciano",
+        "tema": "Poquita Fé",
+        "video": "https://www.youtube.com/watch?v=iMwAW7tX0NE"
+    },
+    {
+        "fecha": "Diciembre 21 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Richie Ray Y Bobby Cruz",
+        "tema": "Bomba En Navidad",
+        "video": "https://www.youtube.com/watch?v=9Xyk0ZK0_dE"
+    },
+    {
+        "fecha": "Diciembre 21 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Kiss",
+        "tema": "War Machine",
+        "video": "https://www.youtube.com/watch?v=q08kDgsquOc"
+    },
+    {
+        "fecha": "Diciembre 21 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Richie Ray y Bobby Cruz",
+        "tema": "Aguinaldo Navideño",
+        "video": "https://www.youtube.com/watch?v=DlukTmDH6yk"
+    },
+    {
+        "fecha": "Diciembre 20 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Tito Puente",
+        "tema": "Guajira",
+        "video": "https://www.youtube.com/watch?v=WohL3A2rtfU"
+    },
+    {
+        "fecha": "Diciembre 20 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Sonora Dinamita",
+        "tema": "Pascua de Navidad",
+        "video": "https://www.youtube.com/watch?v=hmqvyyr51tI"
+    },
+    {
+        "fecha": "Diciembre 20 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Guns N Roses",
+        "tema": "The General",
+        "video": "https://www.youtube.com/watch?v=35IMLsf54oI"
+    },
+    {
+        "fecha": "Diciembre 20 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "La Sonora Dinamita",
+        "tema": "Arbolito Lindo De Navidad",
+        "video": "https://www.youtube.com/watch?v=R3nZXQaNzkE"
+    },
+    {
+        "fecha": "Diciembre 19 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Eddie Palmieri",
+        "tema": "No Me Hagas Sufrir",
+        "video": "https://www.youtube.com/watch?v=6yAlBqxgiqo"
+    },
+    {
+        "fecha": "Diciembre 19 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Hector Lavoe y Willie Colon",
+        "tema": "Esta Navidad",
+        "video": "https://www.youtube.com/watch?v=x_6hd25NfqE"
+    },
+    {
+        "fecha": "Diciembre 19 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Aerosmith",
+        "tema": "Somebody",
+        "video": "https://www.youtube.com/watch?v=AiqBpDgILQ0"
+    },
+    {
+        "fecha": "Diciembre 19 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Hector Lavoe y Willie Colon",
+        "tema": "Aires de Navidad",
+        "video": "https://www.youtube.com/watch?v=BHzbDUBZJFo"
+    },
+    {
+        "fecha": "Diciembre 18 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "La Fania",
+        "tema": "Guajira Para Los Pollos",
+        "video": "https://www.youtube.com/watch?v=Zi5Ho2giiU4"
+    },
+    {
+        "fecha": "Diciembre 18 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Tony Camargo",
+        "tema": "La Bandolera",
+        "video": "https://www.youtube.com/watch?v=emzreUA3vbk"
+    },
+    {
+        "fecha": "Diciembre 18 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Goldfinger",
+        "tema": "Rudolf The Red Nose Reindeer",
+        "video": "https://www.youtube.com/watch?v=W5MMGCXeYww"
+    },
+    {
+        "fecha": "Diciembre 18 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Tony Camargo",
+        "tema": "La Llorona",
+        "video": "https://www.youtube.com/watch?v=1juDP6yzOuM"
+    },
+    {
+        "fecha": "Diciembre 15 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "La Charanga Habanera",
+        "tema": "Lola Lola",
+        "video": "https://www.youtube.com/watch?v=EKnUP-KbjRE"
+    },
+    {
+        "fecha": "Diciembre 15 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Joe Cuba",
+        "tema": "Tremendo Rumbon",
+        "video": "https://www.youtube.com/watch?v=-q68LlLnscc"
+    },
+    {
+        "fecha": "Diciembre 15 de 2023",
+        "seccion": "La de Martín",
+        "artista": "AC DC",
+        "tema": "You Shook Me All Night Long",
+        "video": "https://www.youtube.com/watch?v=Lo2qQmj0_h4"
+    },
+    {
+        "fecha": "Diciembre 15 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Joe Cuba",
+        "tema": "El Pito",
+        "video": "https://www.youtube.com/watch?v=y-_A1DComcA"
+    },
+    {
+        "fecha": "Diciembre 14 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Alejo Duran",
+        "tema": "La Mujer Y La Primavera",
+        "video": "https://www.youtube.com/watch?v=3AaEmiB7L2E"
+    },
+    {
+        "fecha": "Diciembre 14 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Nelson Henriquez",
+        "tema": "Mi Vieja Barranquilla",
+        "video": "https://www.youtube.com/watch?v=IfnOowXx0Nw"
+    },
+    {
+        "fecha": "Diciembre 14 de 2023",
+        "seccion": "La de Martín",
+        "artista": "The Clash",
+        "tema": "Career Opportunities",
+        "video": "https://www.youtube.com/watch?v=jZOrkPIZ1JU"
+    },
+    {
+        "fecha": "Diciembre 14 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Juan Piña",
+        "tema": "Cumbión del Junior",
+        "video": "https://www.youtube.com/watch?v=yjOKLVQYRG4"
+    },
+    {
+        "fecha": "Diciembre 13 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Calixto Ochoa",
+        "tema": "La Matica De Pangola",
+        "video": "https://www.youtube.com/watch?v=61hAtCoVZ9g"
+    },
+    {
+        "fecha": "Diciembre 13 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Antonio Posada",
+        "tema": "Que Lo Diga Ella",
+        "video": "https://www.youtube.com/watch?v=VXFk9boMoS0"
+    },
+    {
+        "fecha": "Diciembre 13 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Slayer",
+        "tema": "War Ensemble",
+        "video": "https://twitter.com/PelaezFranMusic"
+    },
+    {
+        "fecha": "Diciembre 13 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Leonel Ospina",
+        "tema": "Maria Teresa",
+        "video": "https://www.youtube.com/watch?v=YZ04wmWaB58"
+    },
+    {
+        "fecha": "Diciembre 12 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "La Misma Gente",
+        "tema": "Juanita ae",
+        "video": "https://www.youtube.com/watch?v=_B_WcW-crKI"
+    },
+    {
+        "fecha": "Diciembre 12 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Memo Morales",
+        "tema": "Te Quiero Porque Te Quiero",
+        "video": "https://www.youtube.com/watch?v=kJhTL3-W83w"
+    },
+    {
+        "fecha": "Diciembre 12 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Damage Incorporated",
+        "video": "https://www.youtube.com/watch?v=DdekZoYoamE"
+    },
+    {
+        "fecha": "Diciembre 12 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Memo Morales",
+        "tema": "Si Vas A Calatayud",
+        "video": "https://www.youtube.com/watch?v=g3A0_X2OqO4"
+    },
+    {
+        "fecha": "Diciembre 11 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Zico",
+        "tema": "Any Song",
+        "video": "https://www.youtube.com/watch?v=UuV2BmJ1p_I"
+    },
+    {
+        "fecha": "Diciembre 11 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Emir Boscan",
+        "tema": "Cubita La Bella",
+        "video": "https://www.youtube.com/watch?v=2evNk83lSv0"
+    },
+    {
+        "fecha": "Diciembre 11 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Megadeth",
+        "tema": "Tornado Of Souls",
+        "video": "https://www.youtube.com/watch?v=L8HhOMNrulE"
+    },
+    {
+        "fecha": "Diciembre 11 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Emir Boscan",
+        "tema": "El Burrito Sabanero",
+        "video": "https://www.youtube.com/watch?v=ha9VF5uDHfU"
+    },
+    {
+        "fecha": "Diciembre 7 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Juan Luis Guerra",
+        "tema": "La Noviecita",
+        "video": "https://www.youtube.com/watch?v=WENJIxEfyaw"
+    },
+    {
+        "fecha": "Diciembre 7 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Sergio Vargas",
+        "tema": "La Quiero A Morir",
+        "video": "https://www.youtube.com/watch?v=Jn1OIkMqpbo"
+    },
+    {
+        "fecha": "Diciembre 7 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Anthrax",
+        "tema": "Friggin In The Riggin",
+        "video": "https://www.youtube.com/watch?v=uCiQso0K4m0"
+    },
+    {
+        "fecha": "Diciembre 7 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Sergio Vargas",
+        "tema": "La Ventanita",
+        "video": "https://www.youtube.com/watch?v=TMnoDzBbvk0"
+    },
+    {
+        "fecha": "Diciembre 6 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Yuri Buenaventura",
+        "tema": "No Estoy Contigo",
+        "video": "https://www.youtube.com/watch?v=vZyeRN8-RH4"
+    },
+    {
+        "fecha": "Diciembre 6 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Guillermo Buitrago",
+        "tema": "Grito Vagabundo",
+        "video": "https://www.youtube.com/watch?v=4mZTyJvczeI"
+    },
+    {
+        "fecha": "Diciembre 6 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Mercyful Fate",
+        "tema": "Melissa",
+        "video": "https://www.youtube.com/watch?v=YJaAuJnPL8U"
+    },
+    {
+        "fecha": "Diciembre 6 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Guillermo Buitrago",
+        "tema": "El Ron de Vinola",
+        "video": "https://www.youtube.com/watch?v=dKtKQIVAdVY"
+    },
+    {
+        "fecha": "Diciembre 5 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Poncho Sánchez",
+        "tema": "Amor con Amor",
+        "video": "https://www.youtube.com/watch?v=kQ8-qjjNRhs"
+    },
+    {
+        "fecha": "Diciembre 5 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Luis Aguilar",
+        "tema": "No Volveré",
+        "video": "https://www.youtube.com/watch?v=Ywa543_WfgE"
+    },
+    {
+        "fecha": "Diciembre 5 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Slayer",
+        "tema": "Implode",
+        "video": "https://www.youtube.com/watch?v=WdHP5jiR4D0"
+    },
+    {
+        "fecha": "Diciembre 5 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Luis Aguilar",
+        "tema": "Que Padre Es La Vida",
+        "video": "https://www.youtube.com/watch?v=4YDvfCkVeR4"
+    },
+    {
+        "fecha": "Diciembre 4 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Sergio Mendes",
+        "tema": "That Heat",
+        "video": "https://www.youtube.com/watch?v=oUnAhhV8rgg"
+    },
+    {
+        "fecha": "Diciembre 4 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Sonora Matancera",
+        "tema": "Rumba en Navidad",
+        "video": "https://www.youtube.com/watch?v=JKjj0phySLE"
+    },
+    {
+        "fecha": "Diciembre 4 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Led Zeppelin",
+        "tema": "Rock And Roll",
+        "video": "https://www.youtube.com/watch?v=qyivczZI5pw"
+    },
+    {
+        "fecha": "Diciembre 4 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Celia Cruz",
+        "tema": "Jingle Bells",
+        "video": "https://www.youtube.com/watch?v=y2MJ39WzUJ8"
+    },
+    {
+        "fecha": "Diciembre 1 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Caco y Su Orquesta",
+        "tema": "Shingaling Shingaling",
+        "video": "https://www.youtube.com/watch?v=YxLBc3D45qE"
+    },
+    {
+        "fecha": "Diciembre 1 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Gildardo Montoya",
+        "tema": "El Mes De La Parranda",
+        "video": "https://www.youtube.com/watch?v=QbTzysOisCw"
+    },
+    {
+        "fecha": "Diciembre 1 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Exodus",
+        "tema": "Salt The Wound",
+        "video": "https://www.youtube.com/watch?v=CMs9yNlBp4c"
+    },
+    {
+        "fecha": "Diciembre 1 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Richie Ray y Bobby Cruz",
+        "tema": "Bella Es La Navidad",
+        "video": "https://www.youtube.com/watch?v=H4YgW78xA8k"
+    }
+]
