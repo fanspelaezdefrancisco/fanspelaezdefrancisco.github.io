@@ -1,307 +1,559 @@
 [
     {
-        "fecha": "Octubre 17 de 2023",
+        "fecha": "Noviembre 30 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Spinetta y Luis Salinas",
+        "tema": "Y Aparece Tu Piel",
+        "video": "https://www.youtube.com/watch?v=Q9cGFGen3zk"
+    },
+    {
+        "fecha": "Noviembre 30 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Palito Ortega",
+        "tema": "La Felicidad",
+        "video": "https://www.youtube.com/watch?v=Z9As8OJ165w"
+    },
+    {
+        "fecha": "Noviembre 30 de 2023",
+        "seccion": "La de Martín",
+        "artista": "La Renga",
+        "tema": "El Final Es En Donde Partí",
+        "video": "https://www.youtube.com/watch?v=Ffd4mxYicbs"
+    },
+    {
+        "fecha": "Noviembre 30 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Palito Ortega",
+        "tema": "Yo Tengo Fe",
+        "video": "https://www.youtube.com/watch?v=8GFWs2IDUd4"
+    },
+    {
+        "fecha": "Noviembre 29 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Simone",
+        "tema": "Dandara",
+        "video": "https://www.youtube.com/watch?v=90LhEhiMVG0"
+    },
+    {
+        "fecha": "Noviembre 29 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Hermanos Arriagada",
+        "tema": "Un Mundo Diferente",
+        "video": "https://www.youtube.com/watch?v=0BGaDF5SWUQ"
+    },
+    {
+        "fecha": "Noviembre 29 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Testament",
+        "tema": "Down For Life",
+        "video": "https://www.youtube.com/watch?v=JIu4yr5mYMc"
+    },
+    {
+        "fecha": "Noviembre 29 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Los Hermanos Arriagada",
+        "tema": "Nathalie",
+        "video": "https://www.youtube.com/watch?v=IpnHkm9W7fY"
+    },
+    {
+        "fecha": "Noviembre 28 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "BG Knocc Out & Dresta",
+        "tema": "DPG Killa",
+        "video": "https://www.youtube.com/watch?v=mEOoaRbIcNM"
+    },
+    {
+        "fecha": "Noviembre 28 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Andy Russell",
+        "tema": "Soy Un Extraño",
+        "video": "https://www.youtube.com/watch?v=TIqzBKgFISY"
+    },
+    {
+        "fecha": "Noviembre 28 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Disturbed",
+        "tema": "Stricken",
+        "video": "https://www.youtube.com/watch?v=I77mjesUbkw"
+    },
+    {
+        "fecha": "Noviembre 28 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Andy Rusell",
+        "tema": "Amor Amor",
+        "video": "https://www.youtube.com/watch?v=TrrleOhP7yU"
+    },
+    {
+        "fecha": "Noviembre 27 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "El Gran Combo de Puerto Rico",
+        "tema": "El Aguacero",
+        "video": "https://www.youtube.com/watch?v=PDZkbHNDbwo"
+    },
+    {
+        "fecha": "Noviembre 27 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Joan Manuel Serrat",
+        "tema": "Mediterráneo",
+        "video": "https://www.youtube.com/watch?v=Cx5ENAFTLZg"
+    },
+    {
+        "fecha": "Noviembre 27 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Iron Maiden",
+        "tema": "Revelations",
+        "video": "https://www.youtube.com/watch?v=ClUB7_8xjEw"
+    },
+    {
+        "fecha": "Noviembre 27 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Joan Manuel Serrat",
+        "tema": "La Mujer Que Yo Quiero",
+        "video": "https://www.youtube.com/watch?v=wLCagVABMpw&t=6s"
+    },
+    {
+        "fecha": "Noviembre 24 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Notorious BIG",
+        "tema": "Party And Bullshit",
+        "video": "https://www.youtube.com/watch?v=h16rDTMevC0"
+    },
+    {
+        "fecha": "Noviembre 24 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Alegres Vallenatos",
+        "tema": "Los Camarones",
+        "video": "https://www.youtube.com/watch?v=vkQOd235I50"
+    },
+    {
+        "fecha": "Noviembre 24 de 2023",
+        "seccion": "La de Martín",
+        "artista": "La Renga",
+        "tema": "Panic Show",
+        "video": "https://www.youtube.com/watch?v=3wsTxNusM4g"
+    },
+    {
+        "fecha": "Noviembre 24 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Julio Torres y Los Alegres Vallenatos",
+        "tema": "El Aguacero",
+        "video": "https://www.youtube.com/watch?v=Y0lGvoFpSgU"
+    },
+    {
+        "fecha": "Noviembre 23 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Sergio Mendes",
+        "tema": "The Frog",
+        "video": "https://www.youtube.com/watch?v=Ddy61Av5F2A"
+    },
+    {
+        "fecha": "Noviembre 23 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Claudia de Colombia",
+        "tema": "Tu me Haces Falta",
+        "video": "https://www.youtube.com/watch?v=gOMYlX5S5Rs"
+    },
+    {
+        "fecha": "Noviembre 23 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Judas Priest",
+        "tema": "Trial By Fire",
+        "video": "https://www.youtube.com/watch?v=D1sKri5YOWk"
+    },
+    {
+        "fecha": "Noviembre 23 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Claudia de Colombia",
+        "tema": "Rio Badillo",
+        "video": "https://www.youtube.com/watch?v=lD_Q_v7fCOw"
+    },
+    {
+        "fecha": "Noviembre 22 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "PJAE",
+        "tema": "Be That Someone",
+        "video": "https://www.youtube.com/watch?v=u8q8d6jRxOU"
+    },
+    {
+        "fecha": "Noviembre 22 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Chito Galindo",
+        "tema": "Queridos Padres",
+        "video": "https://www.youtube.com/watch?v=U_hPtlXgym0"
+    },
+    {
+        "fecha": "Noviembre 22 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Bloodhound Gang",
+        "tema": "Balls Out",
+        "video": "https://www.youtube.com/watch?v=eT_0bk9cgjE"
+    },
+    {
+        "fecha": "Noviembre 22 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Chito Galindo",
+        "tema": "Consuelame",
+        "video": "https://www.youtube.com/watch?v=-qFjLpxKZFQ"
+    },
+    {
+        "fecha": "Noviembre 21 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Allen Stone",
+        "tema": "Champagne People",
+        "video": "https://www.youtube.com/watch?v=UIEQ9uQJO14"
+    },
+    {
+        "fecha": "Noviembre 21 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Eduardo Farrel",
+        "tema": "Vuelvo a Querer",
+        "video": "https://www.youtube.com/watch?v=jRlvHiHjhYs"
+    },
+    {
+        "fecha": "Noviembre 21 de 2023",
+        "seccion": "La de Martín",
+        "artista": "System Of A Down",
+        "tema": "Attack",
+        "video": "https://www.youtube.com/watch?v=tf1xUGRGLtM"
+    },
+    {
+        "fecha": "Noviembre 21 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Eduardo Farrel",
+        "tema": "Desesperación",
+        "video": "https://www.youtube.com/watch?v=0dabW7twvkA"
+    },
+    {
+        "fecha": "Noviembre 20 de 2023",
+        "seccion": "La otra de Martín",
+        "artista": "Vicente García",
+        "tema": "Dulcito de Coco",
+        "video": "https://www.youtube.com/watch?v=cTrUFzZi-TM"
+    },
+    {
+        "fecha": "Noviembre 20 de 2023",
+        "seccion": "La otra de Pelaez",
+        "artista": "Monna Bell",
+        "tema": "La Montaña",
+        "video": "https://www.youtube.com/watch?v=qXrcX3EoLug"
+    },
+    {
+        "fecha": "Noviembre 20 de 2023",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Welcome Home Sanitarium",
+        "video": "https://www.youtube.com/watch?v=ZiIc0HuJ78Q"
+    },
+    {
+        "fecha": "Noviembre 20 de 2023",
+        "seccion": "La de Pelaez",
+        "artista": "Monna Bell",
+        "tema": "Un Telegrama",
+        "video": "https://www.youtube.com/watch?v=tQRDZoiXxTQ"
+    },
+    {
+        "fecha": "Noviembre 17 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Eric Clapton",
         "tema": "Signe",
         "video": "https://www.youtube.com/watch?v=8mhbCa2RGRs"
     },
     {
-        "fecha": "Octubre 17 de 2023",
+        "fecha": "Noviembre 17 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "El Combo De Las Estrellas",
         "tema": "Te Lo Juro Yo",
         "video": "https://www.youtube.com/watch?v=fS0fWj-H8Q8"
     },
     {
-        "fecha": "Octubre 17 de 2023",
+        "fecha": "Noviembre 17 de 2023",
         "seccion": "La de Martín",
         "artista": "AC DC",
         "tema": "What Do You Do For Money Honey",
         "video": "https://www.youtube.com/watch?v=7iF26wKF-_M"
     },
     {
-        "fecha": "Octubre 17 de 2023",
+        "fecha": "Noviembre 17 de 2023",
         "seccion": "La de Pelaez",
         "artista": "El Combo De Las Estrellas",
         "tema": "Plegaria Vallenata",
         "video": "https://www.youtube.com/watch?v=YoMPSP4Zgzs"
     },
     {
-        "fecha": "Octubre 16 de 2023",
+        "fecha": "Noviembre 16 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Incognito",
         "tema": "One Step",
         "video": "https://www.youtube.com/watch?v=vYxJxbJwdwE"
     },
     {
-        "fecha": "Octubre 16 de 2023",
+        "fecha": "Noviembre 16 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Johnny Tedesco",
         "tema": "Mi Alma Lloró",
         "video": "https://www.youtube.com/watch?v=rmGhEygHtxk"
     },
     {
-        "fecha": "Octubre 16 de 2023",
+        "fecha": "Noviembre 16 de 2023",
         "seccion": "La de Martín",
         "artista": "Electron",
         "tema": "Wake Up",
         "video": "https://www.youtube.com/watch?v=-edH6-AQf1c"
     },
     {
-        "fecha": "Octubre 16 de 2023",
+        "fecha": "Noviembre 16 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Johnny Tedesco",
         "tema": "Rock del Ton Ton",
         "video": "https://www.youtube.com/watch?v=uLBxLfsie3A"
     },
     {
-        "fecha": "Octubre 15 de 2023",
+        "fecha": "Noviembre 15 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Stevie Wonder",
         "tema": "Dont You Worry Bout A Thing",
         "video": "https://www.youtube.com/watch?v=pq7JEJEPM9g"
     },
     {
-        "fecha": "Octubre 15 de 2023",
+        "fecha": "Noviembre 15 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Luis Gabriel",
         "tema": "Así Es Mi Pueblo",
         "video": "https://www.youtube.com/watch?v=tlBU6gn6TaY"
     },
     {
-        "fecha": "Octubre 15 de 2023",
+        "fecha": "Noviembre 15 de 2023",
         "seccion": "La de Martín",
         "artista": "Pantera",
         "tema": "Becoming",
         "video": "https://www.youtube.com/watch?v=NLP0xP2M4S8"
     },
     {
-        "fecha": "Octubre 15 de 2023",
+        "fecha": "Noviembre 15 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Carmenza Duque",
         "tema": "Luna Roja",
         "video": "https://www.youtube.com/watch?v=D4yQ1WhIAlA"
     },
     {
-        "fecha": "Octubre 14 de 2023",
+        "fecha": "Noviembre 14 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Elis Regina",
         "tema": "Sai Dessa",
         "video": "https://www.youtube.com/watch?v=5pz6m2DzR9g"
     },
     {
-        "fecha": "Octubre 14 de 2023",
+        "fecha": "Noviembre 14 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "El Indio Araucano",
         "tema": "Perdoname Otravez",
         "video": "https://www.youtube.com/watch?v=0EOLESxpvLI"
     },
     {
-        "fecha": "Octubre 14 de 2023",
+        "fecha": "Noviembre 14 de 2023",
         "seccion": "La de Martín",
         "artista": "Accept",
         "tema": "Do It",
         "video": "https://www.youtube.com/watch?v=ZXqVjQIBso8"
     },
     {
-        "fecha": "Octubre 14 de 2023",
+        "fecha": "Noviembre 14 de 2023",
         "seccion": "La de Pelaez",
         "artista": "El Indio Araucano",
         "tema": "Cuando Muere La Noche",
         "video": "https://www.youtube.com/watch?v=wusYmRYBKIU"
     },
     {
-        "fecha": "Octubre 10 de 2023",
+        "fecha": "Noviembre 10 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Tony Vega",
         "tema": "Me Gusta Que Seas Celosa",
         "video": "https://www.youtube.com/watch?v=YlwfqMteX10"
     },
     {
-        "fecha": "Octubre 10 de 2023",
+        "fecha": "Noviembre 10 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Orquesta Casino de la Playa",
         "tema": "Cachita",
         "video": "https://www.youtube.com/watch?v=ZPKuYRlIYUQ"
     },
     {
-        "fecha": "Octubre 10 de 2023",
+        "fecha": "Noviembre 10 de 2023",
         "seccion": "La de Martín",
         "artista": "Suicidal Tendencies",
         "tema": "Send me your Money",
         "video": "https://www.youtube.com/watch?v=2ESWRtaHNU8"
     },
     {
-        "fecha": "Octubre 10 de 2023",
+        "fecha": "Noviembre 10 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Orquesta Casino de la Playa",
         "tema": "La Cachimba de San Juan",
         "video": "https://www.youtube.com/watch?v=gGqhHKYIz0g"
     },
     {
-        "fecha": "Octubre 9 de 2023",
+        "fecha": "Noviembre 9 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Joe Cuba",
         "tema": "Sabroso Cha Cha",
         "video": "https://www.youtube.com/watch?v=Gg1YJ8K7Kso"
     },
     {
-        "fecha": "Octubre 9 de 2023",
+        "fecha": "Noviembre 9 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "René Alvarez",
         "tema": "Camina Como Yo",
         "video": "https://www.youtube.com/watch?v=GXuKBBzm_PU"
     },
     {
-        "fecha": "Octubre 9 de 2023",
+        "fecha": "Noviembre 9 de 2023",
         "seccion": "La de Martín",
         "artista": "Pantera",
         "tema": "Piss",
         "video": "https://www.youtube.com/watch?v=yeVJguP_T40"
     },
     {
-        "fecha": "Octubre 9 de 2023",
+        "fecha": "Noviembre 9 de 2023",
         "seccion": "La de Pelaez",
         "artista": "René Alvarez",
         "tema": "Ese Soy Yo",
         "video": "https://www.youtube.com/watch?v=fmoDv-N2RtM"
     },
     {
-        "fecha": "Octubre 8 de 2023",
+        "fecha": "Noviembre 8 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Ray Barretto",
         "tema": "Ay No",
         "video": "https://www.youtube.com/watch?v=ZTIA3BHTvSk"
     },
     {
-        "fecha": "Octubre 8 de 2023",
+        "fecha": "Noviembre 8 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Pacho Santos",
         "tema": "El Manisero",
         "video": "https://www.youtube.com/watch?v=WdJCtzfiSBs"
     },
     {
-        "fecha": "Octubre 8 de 2023",
+        "fecha": "Noviembre 8 de 2023",
         "seccion": "La de Martín",
         "artista": "System Of A Down",
         "tema": "Lonely Day",
         "video": "https://www.youtube.com/watch?v=DnGdoEa1tPg"
     },
     {
-        "fecha": "Octubre 8 de 2023",
+        "fecha": "Noviembre 8 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Pacho Alonso",
         "tema": "Como Pienso En Ti",
         "video": "https://www.youtube.com/watch?v=wBXkvbvkkHA"
     },
     {
-        "fecha": "Octubre 7 de 2023",
+        "fecha": "Noviembre 7 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Jose Antonio Mendez",
         "tema": "Por Nuestra Cobardia",
         "video": "https://www.youtube.com/watch?v=Lq3XubAiytM"
     },
     {
-        "fecha": "Octubre 7 de 2023",
+        "fecha": "Noviembre 7 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Lucho Gatica",
         "tema": "Sombras",
         "video": "https://www.youtube.com/watch?v=_bsEM9mIt6o"
     },
     {
-        "fecha": "Octubre 7 de 2023",
+        "fecha": "Noviembre 7 de 2023",
         "seccion": "La de Martín",
         "artista": "Def Lev",
         "tema": "Funked Up Cranked Up",
         "video": "https://www.youtube.com/watch?v=9AzCZ3y0bIY"
     },
     {
-        "fecha": "Octubre 7 de 2023",
+        "fecha": "Noviembre 7 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Lucho Gatica",
         "tema": "Luna Tucumana",
         "video": "https://www.youtube.com/watch?v=kHWcmrKrc_E"
     },
     {
-        "fecha": "Octubre 3 de 2023",
+        "fecha": "Noviembre 3 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Willie Colon y Hector Lavoe",
         "tema": "Esto Se Baila Asi",
         "video": "https://www.youtube.com/watch?v=vkg2IX58dnk"
     },
     {
-        "fecha": "Octubre 3 de 2023",
+        "fecha": "Noviembre 3 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Los Guaracheros de Oriente",
         "tema": "Echale Tierra Y Tapalo",
         "video": "https://www.youtube.com/watch?v=nQdDgUmiIX0"
     },
     {
-        "fecha": "Octubre 3 de 2023",
+        "fecha": "Noviembre 3 de 2023",
         "seccion": "La de Martín",
         "artista": "Anthrax",
         "tema": "Among The Living",
         "video": "https://www.youtube.com/watch?v=7mRDSW9-i_E"
     },
     {
-        "fecha": "Octubre 3 de 2023",
+        "fecha": "Noviembre 3 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Guaracheros De Oriente",
         "tema": "La Fiesta No Es Para Feos",
         "video": "https://www.youtube.com/watch?v=YmirNuZxZg8"
     },
     {
-        "fecha": "Octubre 2 de 2023",
+        "fecha": "Noviembre 2 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Puerto Rican Power",
         "tema": "Adonde Iras",
         "video": "https://www.youtube.com/watch?v=4PydT4BluU4"
     },
     {
-        "fecha": "Octubre 2 de 2023",
+        "fecha": "Noviembre 2 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Domingo Lugo",
         "tema": "Mis Delirios",
         "video": "https://www.youtube.com/watch?v=u2ree6G2UyY"
     },
     {
-        "fecha": "Octubre 2 de 2023",
+        "fecha": "Noviembre 2 de 2023",
         "seccion": "La de Martín",
         "artista": "KISS",
         "tema": "Nothin to Lose",
         "video": "https://www.youtube.com/watch?v=FB0wDTVIT58"
     },
     {
-        "fecha": "Octubre 2 de 2023",
+        "fecha": "Noviembre 2 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Domingo Lugo",
         "tema": "De Cigarro En Cigarro",
         "video": "https://www.youtube.com/watch?v=-zUler-Bw_E"
     },
     {
-        "fecha": "Octubre 1 de 2023",
+        "fecha": "Noviembre 1 de 2023",
         "seccion": "La otra de Martín",
         "artista": "Luigi Texidor",
         "tema": "Linda Teresa",
         "video": "https://www.youtube.com/watch?v=ENUP61wZ4IY"
     },
     {
-        "fecha": "Octubre 1 de 2023",
+        "fecha": "Noviembre 1 de 2023",
         "seccion": "La otra de Pelaez",
         "artista": "Connie Francis",
         "tema": "Solamente una vez",
         "video": "https://www.youtube.com/watch?v=SjU_E3O9oks"
     },
     {
-        "fecha": "Octubre 1 de 2023",
+        "fecha": "Noviembre 1 de 2023",
         "seccion": "La de Martín",
         "artista": "Rainbow",
         "tema": "Long Live Rock and Roll",
         "video": "https://www.youtube.com/watch?v=ngNqB_hqUJg"
     },
     {
-        "fecha": "Octubre 1 de 2023",
+        "fecha": "Noviembre 1 de 2023",
         "seccion": "La de Pelaez",
         "artista": "Connie Francis",
         "tema": "Mi Tonto Amor",
