@@ -19,8 +19,6 @@ searchMusic.addEventListener("submit", async (e) => {
         let JsonResponse2022 = await Busqueda2022()
         let JsonResponse2023 = await Busqueda2023()
         let JsonResponse2024 = await Busqueda2024()
-        console.log(JsonResponse2023)
-        console.log(JsonResponse2024)
 
         var elementosEncontrados2021
         var elementosEncontrados2022
