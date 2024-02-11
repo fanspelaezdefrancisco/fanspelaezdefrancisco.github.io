@@ -18,28 +18,33 @@ searchMusic.addEventListener("submit", async (e) => {
         let JsonResponse2021 = await Busqueda2021()
         let JsonResponse2022 = await Busqueda2022()
         let JsonResponse2023 = await Busqueda2023()
+        let JsonResponse2024 = await Busqueda2024()
 
         var elementosEncontrados2021
         var elementosEncontrados2022
         var elementosEncontrados2023
+        var elementosEncontrados2024
 
         if (search_artista.value && search_tema.value) {
 
             elementosEncontrados2021 = JsonResponse2021.filter(element => regexp_artista.test(element.artista) && regexp_tema.test(element.tema))
             elementosEncontrados2022 = JsonResponse2022.filter(element => regexp_artista.test(element.artista) && regexp_tema.test(element.tema))
             elementosEncontrados2023 = JsonResponse2023.filter(element => regexp_artista.test(element.artista) && regexp_tema.test(element.tema))
+            elementosEncontrados2024 = JsonResponse2024.filter(element => regexp_artista.test(element.artista) && regexp_tema.test(element.tema))
 
         } else if (search_artista.value) {
 
             elementosEncontrados2021 = JsonResponse2021.filter(element => regexp_artista.test(element.artista))
             elementosEncontrados2022 = JsonResponse2022.filter(element => regexp_artista.test(element.artista))
             elementosEncontrados2023 = JsonResponse2023.filter(element => regexp_artista.test(element.artista))
+            elementosEncontrados2024 = JsonResponse2024.filter(element => regexp_artista.test(element.artista))
 
         } else if (search_tema.value) {
 
             elementosEncontrados2021 = JsonResponse2021.filter(element => regexp_tema.test(element.tema))
             elementosEncontrados2022 = JsonResponse2022.filter(element => regexp_tema.test(element.tema))
             elementosEncontrados2023 = JsonResponse2023.filter(element => regexp_tema.test(element.tema))
+            elementosEncontrados2024 = JsonResponse2024.filter(element => regexp_tema.test(element.tema))
 
         }
 
@@ -50,6 +55,9 @@ searchMusic.addEventListener("submit", async (e) => {
             elementosEncontrados.push(element)
         });
         elementosEncontrados2023.forEach(element => {
+            elementosEncontrados.push(element)
+        });
+        elementosEncontrados2024.forEach(element => {
             elementosEncontrados.push(element)
         });
 
@@ -125,6 +133,13 @@ async function Busqueda2022() {
 async function Busqueda2023() {
 
     const response = await fetch(`data/2023/todo.json`)
+    const json_response = await response.json()
+    return json_response
+}
+
+async function Busqueda2024() {
+
+    const response = await fetch(`data/2024/todo.json`)
     const json_response = await response.json()
     return json_response
 }
