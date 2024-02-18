@@ -1,5 +1,145 @@
 [
     {
+        "fecha": "Febrero 16 de 2024",
+        "seccion": "La otra de Martín",
+        "artista": "Marvin Santiago",
+        "tema": "Estaca De Guayacán",
+        "video": "https://www.youtube.com/watch?v=M00YyasXB1g"
+    },
+    {
+        "fecha": "Febrero 16 de 2024",
+        "seccion": "La otra de Pelaez",
+        "artista": "Tito Cortes",
+        "tema": "Mañana Vas A Llorar",
+        "video": "https://www.youtube.com/watch?v=Ug6wsAeHBSA"
+    },
+    {
+        "fecha": "Febrero 16 de 2024",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "For Whom The Bell Tolls",
+        "video": "https://www.youtube.com/watch?v=B_HSa1dEL9s"
+    },
+    {
+        "fecha": "Febrero 16 de 2024",
+        "seccion": "La de Pelaez",
+        "artista": "Tito Cortes",
+        "tema": "Si Te Vas",
+        "video": "https://www.youtube.com/watch?v=rxKOijAJgZs"
+    },
+    {
+        "fecha": "Febrero 15 de 2024",
+        "seccion": "La otra de Martín",
+        "artista": "Latin Giants of Jazz",
+        "tema": "Miedo Al Cha Cha",
+        "video": "https://www.youtube.com/watch?v=jebSdo-pcqk"
+    },
+    {
+        "fecha": "Febrero 15 de 2024",
+        "seccion": "La otra de Pelaez",
+        "artista": "Los Tres Diamantes",
+        "tema": "La Gloria Eres Tú",
+        "video": "https://www.youtube.com/watch?v=nNFHiwhxSNs"
+    },
+    {
+        "fecha": "Febrero 15 de 2024",
+        "seccion": "La de Martín",
+        "artista": "Seba Dubar",
+        "tema": "Walking Dead",
+        "video": "https://www.youtube.com/watch?v=tbM7Z8HWPGA"
+    },
+    {
+        "fecha": "Febrero 15 de 2024",
+        "seccion": "La de Pelaez",
+        "artista": "Los Tres Diamantes",
+        "tema": "Tango Azul",
+        "video": "https://www.youtube.com/watch?v=kK9BuTInReQ"
+    },
+    {
+        "fecha": "Febrero 14 de 2024",
+        "seccion": "La otra de Martín",
+        "artista": "Maurice White",
+        "tema": "Sing a Song",
+        "video": "https://www.youtube.com/watch?v=wXhsb7pdPbI"
+    },
+    {
+        "fecha": "Febrero 14 de 2024",
+        "seccion": "La otra de Pelaez",
+        "artista": "Julio Jaramillo",
+        "tema": "No Me Toquen Ese Vals",
+        "video": "https://www.youtube.com/watch?v=Poyq6Fsra_A"
+    },
+    {
+        "fecha": "Febrero 14 de 2024",
+        "seccion": "La de Martín",
+        "artista": "Porno For Pyros",
+        "tema": "Pets",
+        "video": "https://www.youtube.com/watch?v=mFkRvF8MeYM"
+    },
+    {
+        "fecha": "Febrero 14 de 2024",
+        "seccion": "La de Pelaez",
+        "artista": "Julio Jaramillo",
+        "tema": "Reminiscencias",
+        "video": "https://www.youtube.com/watch?v=ljfvQlxIe8w"
+    },
+    {
+        "fecha": "Febrero 13 de 2024",
+        "seccion": "La otra de Martín",
+        "artista": "Hector Lavoe",
+        "tema": "De Qué Tamaño Es Tu Amor",
+        "video": "https://www.youtube.com/watch?v=ibA9406Zb-Y"
+    },
+    {
+        "fecha": "Febrero 13 de 2024",
+        "seccion": "La otra de Pelaez",
+        "artista": "Yaco Monti",
+        "tema": "Amor Desesperado",
+        "video": "https://www.youtube.com/watch?v=cRyQBHWPwTA"
+    },
+    {
+        "fecha": "Febrero 13 de 2024",
+        "seccion": "La de Martín",
+        "artista": "Metallica",
+        "tema": "Ronnie Rising Medley",
+        "video": "https://www.youtube.com/watch?v=sK9_kkc6dyo"
+    },
+    {
+        "fecha": "Febrero 13 de 2024",
+        "seccion": "La de Pelaez",
+        "artista": "Yaco Monti",
+        "tema": "Que Tienen Tus Ojos",
+        "video": "https://www.youtube.com/watch?v=qfWGHXBBiyI"
+    },
+    {
+        "fecha": "Febrero 12 de 2024",
+        "seccion": "La otra de Martín",
+        "artista": "Calle Real",
+        "tema": "Mi Melodia",
+        "video": "https://www.youtube.com/watch?v=-CQ3paAOOs8"
+    },
+    {
+        "fecha": "Febrero 12 de 2024",
+        "seccion": "La otra de Pelaez",
+        "artista": "Amalia Mendoza",
+        "tema": "Aunque Pasen Los Años",
+        "video": "https://www.youtube.com/watch?v=XJNoAv0hF5A"
+    },
+    {
+        "fecha": "Febrero 12 de 2024",
+        "seccion": "La de Martín",
+        "artista": "L A Guns",
+        "tema": "Overdrive",
+        "video": "https://www.youtube.com/watch?v=jajLFx4l6Gg"
+    },
+    {
+        "fecha": "Febrero 12 de 2024",
+        "seccion": "La de Pelaez",
+        "artista": "Amalia Mendoza",
+        "tema": "Pa Que Sientas Lo Que Siento",
+        "video": "https://www.youtube.com/watch?v=94aGnlvEtT8"
+    },
+    {
         "fecha": "Febrero 9 de 2024",
         "seccion": "La otra de Martín",
         "artista": "Barry White",
